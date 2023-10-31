@@ -14,4 +14,4 @@
 | 8    |                                        | 18   | Eventual Safe States             | 28   | Bleak Numbers                        |
 | 9    |                                        | 19   |                                  | 29   | Check whether K-th bit is set or not |
 | 10   |                                        | 20   |                                  | 30   | Sum of XOR of all pairs              |
-|      |                                        |      |                                  | 31   |                                      |
+|      |                                        |      |                                  | 31   | Move all zeroes to end of array      |
