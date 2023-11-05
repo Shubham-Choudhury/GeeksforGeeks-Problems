@@ -23,8 +23,8 @@
 | 1    | Frequencies of Limited Range Array Elements | 11   |         | 21   |         |
 | 2    | Minimum distance between two numbers        | 12   |         | 22   |         |
 | 3    | Pythagorean Triplet                         | 13   |         | 23   |         |
-| 4    |                                             | 14   |         | 24   |         |
-| 5    |                                             | 15   |         | 25   |         |
+| 4    | Find Transition Point                       | 14   |         | 24   |         |
+| 5    | Top K Frequent Elements in Array            | 15   |         | 25   |         |
 | 6    |                                             | 16   |         | 26   |         |
 | 7    |                                             | 17   |         | 27   |         |
 | 8    |                                             | 18   |         | 28   |         |
