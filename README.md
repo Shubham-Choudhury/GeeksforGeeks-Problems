@@ -25,7 +25,7 @@
 | 3    | Pythagorean Triplet                         | 13   |         | 23   |         |
 | 4    | Find Transition Point                       | 14   |         | 24   |         |
 | 5    | Top K Frequent Elements in Array            | 15   |         | 25   |         |
-| 6    |                                             | 16   |         | 26   |         |
+| 6    | Letters Collection                          | 16   |         | 26   |         |
 | 7    |                                             | 17   |         | 27   |         |
 | 8    |                                             | 18   |         | 28   |         |
 | 9    |                                             | 19   |         | 29   |         |
