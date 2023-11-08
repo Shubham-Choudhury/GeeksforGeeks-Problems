@@ -27,7 +27,7 @@
 | 5    | Top K Frequent Elements in Array            | 15   |         | 25   |         |
 | 6    | Letters Collection                          | 16   |         | 26   |         |
 | 7    | Sum of upper and lower triangles            | 17   |         | 27   |         |
-| 8    |                                             | 18   |         | 28   |         |
-| 9    |                                             | 19   |         | 29   |         |
+| 8    | Print Matrix in snake Pattern               | 18   |         | 28   |         |
+| 9    | Predict the Column                          | 19   |         | 29   |         |
 | 10   |                                             | 20   |         | 30   |         |
 |      |                                             |      |         | 31   |         |
