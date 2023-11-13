@@ -22,7 +22,7 @@
 | ---- | ------------------------------------------- | ---- | ---------------------------------------- | ---- | ------- |
 | 1    | Frequencies of Limited Range Array Elements | 11   | Isomorphic Strings                       | 21   |         |
 | 2    | Minimum distance between two numbers        | 12   | Check if string is rotated by two places | 22   |         |
-| 3    | Pythagorean Triplet                         | 13   |                                          | 23   |         |
+| 3    | Pythagorean Triplet                         | 13   | Shortest Common Supersequence            | 23   |         |
 | 4    | Find Transition Point                       | 14   |                                          | 24   |         |
 | 5    | Top K Frequent Elements in Array            | 15   |                                          | 25   |         |
 | 6    | Letters Collection                          | 16   |                                          | 26   |         |
