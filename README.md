@@ -24,7 +24,7 @@
 | 2    | Minimum distance between two numbers        | 12   | Check if string is rotated by two places            | 22   |         |
 | 3    | Pythagorean Triplet                         | 13   | Shortest Common Supersequence                       | 23   |         |
 | 4    | Find Transition Point                       | 14   | Check if strings are rotations of each other or not | 24   |         |
-| 5    | Top K Frequent Elements in Array            | 15   |                                                     | 25   |         |
+| 5    | Top K Frequent Elements in Array            | 15   | Better String                                       | 25   |         |
 | 6    | Letters Collection                          | 16   |                                                     | 26   |         |
 | 7    | Sum of upper and lower triangles            | 17   |                                                     | 27   |         |
 | 8    | Print Matrix in snake Pattern               | 18   |                                                     | 28   |         |
