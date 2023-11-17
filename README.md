@@ -26,7 +26,7 @@
 | 4    | Find Transition Point                       | 14   | Check if strings are rotations of each other or not | 24   |         |
 | 5    | Top K Frequent Elements in Array            | 15   | Better String                                       | 25   |         |
 | 6    | Letters Collection                          | 16   | Find the String                                     | 26   |         |
-| 7    | Sum of upper and lower triangles            | 17   |                                                     | 27   |         |
+| 7    | Sum of upper and lower triangles            | 17   | Binary Tree to CDLL                                 | 27   |         |
 | 8    | Print Matrix in snake Pattern               | 18   |                                                     | 28   |         |
 | 9    | Predict the Column                          | 19   |                                                     | 29   |         |
 | 10   | Number following a pattern                  | 20   |                                                     | 30   |         |
