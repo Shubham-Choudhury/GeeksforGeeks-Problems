@@ -27,6 +27,6 @@
 | 5    | Top K Frequent Elements in Array            | 15   | Better String                                       | 25   |         |
 | 6    | Letters Collection                          | 16   | Find the String                                     | 26   |         |
 | 7    | Sum of upper and lower triangles            | 17   | Binary Tree to CDLL                                 | 27   |         |
-| 8    | Print Matrix in snake Pattern               | 18   |                                                     | 28   |         |
+| 8    | Print Matrix in snake Pattern               | 18   | Reverse a Doubly Linked List                        | 28   |         |
 | 9    | Predict the Column                          | 19   |                                                     | 29   |         |
 | 10   | Number following a pattern                  | 20   |                                                     | 30   |         |
