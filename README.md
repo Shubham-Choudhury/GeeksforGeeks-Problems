@@ -23,7 +23,7 @@
 | 1    | Frequencies of Limited Range Array Elements | 11   | Isomorphic Strings                                  | 21   | Determine if Two Trees are Identical |
 | 2    | Minimum distance between two numbers        | 12   | Check if string is rotated by two places            | 22   | Symmetric Tree                       |
 | 3    | Pythagorean Triplet                         | 13   | Shortest Common Supersequence                       | 23   | AVL Tree Insertion                   |
-| 4    | Find Transition Point                       | 14   | Check if strings are rotations of each other or not | 24   |                                      |
+| 4    | Find Transition Point                       | 14   | Check if strings are rotations of each other or not | 24   | Shuffle integers                     |
 | 5    | Top K Frequent Elements in Array            | 15   | Better String                                       | 25   |                                      |
 | 6    | Letters Collection                          | 16   | Find the String                                     | 26   |                                      |
 | 7    | Sum of upper and lower triangles            | 17   | Binary Tree to CDLL                                 | 27   |                                      |
