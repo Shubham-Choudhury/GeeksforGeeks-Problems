@@ -29,4 +29,4 @@
 | 7    | Sum of upper and lower triangles            | 17   | Binary Tree to CDLL                                 | 27   | Detect Cycle using DSU               |
 | 8    | Print Matrix in snake Pattern               | 18   | Reverse a Doubly Linked List                        | 28   | Sum of dependencies in a graph       |
 | 9    | Predict the Column                          | 19   | Intersection of two sorted Linked lists             | 29   | Euler circuit and Path               |
-| 10   | Number following a pattern                  | 20   | K Sum Paths                                         | 30   |                                      |
+| 10   | Number following a pattern                  | 20   | K Sum Paths                                         | 30   | Shortest path from 1 to n            |
