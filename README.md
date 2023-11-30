@@ -30,3 +30,19 @@
 | 8    | Print Matrix in snake Pattern               | 18   | Reverse a Doubly Linked List                        | 28   | Sum of dependencies in a graph       |
 | 9    | Predict the Column                          | 19   | Intersection of two sorted Linked lists             | 29   | Euler circuit and Path               |
 | 10   | Number following a pattern                  | 20   | K Sum Paths                                         | 30   | Shortest path from 1 to n            |
+
+## December 2023
+
+| Date | Problem                             | Date | Problem | Date | Problem |
+| ---- | ----------------------------------- | ---- | ------- | ---- | ------- |
+| 1    | Check whether BST contains Dead End | 11   |         | 21   |         |
+| 2    |                                     | 12   |         | 22   |         |
+| 3    |                                     | 13   |         | 23   |         |
+| 4    |                                     | 14   |         | 24   |         |
+| 5    |                                     | 15   |         | 25   |         |
+| 6    |                                     | 16   |         | 26   |         |
+| 7    |                                     | 17   |         | 27   |         |
+| 8    |                                     | 18   |         | 28   |         |
+| 9    |                                     | 19   |         | 29   |         |
+| 10   |                                     | 20   |         | 30   |         |
+|      |                                     |      |         | 31   |         |
