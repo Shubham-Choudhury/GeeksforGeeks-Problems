@@ -36,7 +36,7 @@
 | Date | Problem                             | Date | Problem | Date | Problem |
 | ---- | ----------------------------------- | ---- | ------- | ---- | ------- |
 | 1    | Check whether BST contains Dead End | 11   |         | 21   |         |
-| 2    |                                     | 12   |         | 22   |         |
+| 2    | Inorder Traversal and BST           | 12   |         | 22   |         |
 | 3    |                                     | 13   |         | 23   |         |
 | 4    |                                     | 14   |         | 24   |         |
 | 5    |                                     | 15   |         | 25   |         |
