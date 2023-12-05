@@ -6,7 +6,7 @@
 | 2    | Inorder Traversal and BST           | 12   |         | 22   |         |
 | 3    | Brothers From Different Roots       | 13   |         | 23   |         |
 | 4    | Sum-string                          | 14   |         | 24   |         |
-| 5    |                                     | 15   |         | 25   |         |
+| 5    | Minimize the Heights II             | 15   |         | 25   |         |
 | 6    |                                     | 16   |         | 26   |         |
 | 7    |                                     | 17   |         | 27   |         |
 | 8    |                                     | 18   |         | 28   |         |
