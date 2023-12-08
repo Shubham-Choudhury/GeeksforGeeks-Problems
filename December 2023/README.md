@@ -9,7 +9,7 @@
 | 5    | Minimize the Heights II                                | 15   |         | 25   |         |
 | 6    | How Many X's?                                          | 16   |         | 26   |         |
 | 7    | Number of subarrays with maximum values in given range | 17   |         | 27   |         |
-| 8    |                                                        | 18   |         | 28   |         |
+| 8    | Transform to prime                                     | 18   |         | 28   |         |
 | 9    |                                                        | 19   |         | 29   |         |
 | 10   |                                                        | 20   |         | 30   |         |
 |      |                                                        |      |         | 31   |         |
