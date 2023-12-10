@@ -11,5 +11,5 @@
 | 7    | Number of subarrays with maximum values in given range | 17   |         | 27   |         |
 | 8    | Transform to prime                                     | 18   |         | 28   |         |
 | 9    | Smith Number                                           | 19   |         | 29   |         |
-| 10   |                                                        | 20   |         | 30   |         |
+| 10   | Subarray with 0 sum                                    | 20   |         | 30   |         |
 |      |                                                        |      |         | 31   |         |
