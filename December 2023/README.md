@@ -5,7 +5,7 @@
 | 1    | Check whether BST contains Dead End                    | 11   | Max Sum Subarray of size K  | 21   |         |
 | 2    | Inorder Traversal and BST                              | 12   | Gold Mine Problem           | 22   |         |
 | 3    | Brothers From Different Roots                          | 13   | Consecutive 1's not allowed | 23   |         |
-| 4    | Sum-string                                             | 14   |                             | 24   |         |
+| 4    | Sum-string                                             | 14   | Painting the Fence          | 24   |         |
 | 5    | Minimize the Heights II                                | 15   |                             | 25   |         |
 | 6    | How Many X's?                                          | 16   |                             | 26   |         |
 | 7    | Number of subarrays with maximum values in given range | 17   |                             | 27   |         |
