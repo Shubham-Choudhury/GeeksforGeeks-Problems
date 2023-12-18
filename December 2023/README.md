@@ -9,7 +9,7 @@
 | 5    | Minimize the Heights II                                | 15   | Reach the Nth point         | 25   |         |
 | 6    | How Many X's?                                          | 16   | String's Count              | 26   |         |
 | 7    | Number of subarrays with maximum values in given range | 17   | Max Sum without Adjacents   | 27   |         |
-| 8    | Transform to prime                                     | 18   |                             | 28   |         |
+| 8    | Transform to prime                                     | 18   | Game of XOR                 | 28   |         |
 | 9    | Smith Number                                           | 19   |                             | 29   |         |
 | 10   | Subarray with 0 sum                                    | 20   |                             | 30   |         |
 |      |                                                        |      |                             | 31   |         |
