@@ -2,7 +2,7 @@
 
 | Date | Problem                                                | Date | Problem                     | Date | Problem |
 | ---- | ------------------------------------------------------ | ---- | --------------------------- | ---- | ------- |
-| 1    | Check whether BST contains Dead End                    | 11   | Max Sum Subarray of size K  | 21   |         |
+| 1    | Check whether BST contains Dead End                    | 11   | Max Sum Subarray of size K  | 21   | Candy   |
 | 2    | Inorder Traversal and BST                              | 12   | Gold Mine Problem           | 22   |         |
 | 3    | Brothers From Different Roots                          | 13   | Consecutive 1's not allowed | 23   |         |
 | 4    | Sum-string                                             | 14   | Painting the Fence          | 24   |         |
