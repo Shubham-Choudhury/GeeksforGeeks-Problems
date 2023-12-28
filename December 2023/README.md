@@ -9,7 +9,7 @@
 | 5    | Minimize the Heights II                                | 15   | Reach the Nth point         | 25   | Determinant of a Matrix                                  |
 | 6    | How Many X's?                                          | 16   | String's Count              | 26   | Largest rectangular sub-matrix whose sum is 0            |
 | 7    | Number of subarrays with maximum values in given range | 17   | Max Sum without Adjacents   | 27   | Anti Diagonal Traversal of Matrix                        |
-| 8    | Transform to prime                                     | 18   | Game of XOR                 | 28   |                                                          |
+| 8    | Transform to prime                                     | 18   | Game of XOR                 | 28   | Wildcard string matching                                 |
 | 9    | Smith Number                                           | 19   | Rightmost different bit     | 29   |                                                          |
 | 10   | Subarray with 0 sum                                    | 20   | Modified Game of Nim        | 30   |                                                          |
 |      |                                                        |      |                             | 31   |                                                          |
