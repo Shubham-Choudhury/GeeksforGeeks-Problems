@@ -12,4 +12,4 @@
 | 8    | Transform to prime                                     | 18   | Game of XOR                 | 28   | Wildcard string matching                                     |
 | 9    | Smith Number                                           | 19   | Rightmost different bit     | 29   | Check if a string is repetition of its substring of k-length |
 | 10   | Subarray with 0 sum                                    | 20   | Modified Game of Nim        | 30   | Winner of an election                                        |
-|      |                                                        |      |                             | 31   |                                                              |
+|      |                                                        |      |                             | 31   | New Year Resolution                                          |
