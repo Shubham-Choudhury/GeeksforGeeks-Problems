@@ -4,19 +4,17 @@ from typing import List
 
 
 class Solution:
-    def isPossible(self, n: int, arr: List[int]) -> bool:
-        dp = [[0] * (n + 1) for _ in range(2025)]
-        for i in range(n + 1):
-            dp[0][i] = True
-        for s in range(1, 2025):
-            for i in range(n):
-                dp[s][i + 1] = dp[s][i]
-                if s >= arr[i]:
-                    dp[s][i + 1] = dp[s][i + 1] or dp[s - arr[i]][i]
-                if dp[s][i + 1] and (s % 20 == 0 or s % 24 == 0 or s == 2024):
-                    return True
+    def isPossible(self, N : int, coins : List[int]) -> bool:
+        s = sum(coins)
+        if s == 2024:
+            return True
+        dp = [True] + [False]*s
+        
+        for c in coins:
+            for i in range(s, c-1, -1):
+                dp[i] = dp[i] or dp[i-c]
 
-        return False
+        return any(dp[i] for i in range(20, s+1, 20)) or any(dp[i] for i in range(24, s+1, 24))
 
 
 if __name__ == "__main__":
