@@ -4,7 +4,7 @@
 | ---- | --------------------------------------- | ---- | ------- | ---- | ------- |
 | 1    | Array Pair Sum Divisibility Problem     | 11   |         | 21   |         |
 | 2    | Largest Sum Subarray of Size at least K | 12   |         | 22   |         |
-| 3    |                                         | 13   |         | 23   |         |
+| 3    | Smallest window containing 0, 1 and 2   | 13   |         | 23   |         |
 | 4    |                                         | 14   |         | 24   |         |
 | 5    |                                         | 15   |         | 25   |         |
 | 6    |                                         | 16   |         | 26   |         |
