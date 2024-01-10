@@ -11,5 +11,5 @@
 | 7    | Split Array Largest Sum                                      | 17   |         | 27   |         |
 | 8    | Merge 2 sorted linked list in reverse order                  | 18   |         | 28   |         |
 | 9    | Search Pattern (KMP-Algorithm)                               | 19   |         | 29   |         |
-| 10   |                                                              | 20   |         | 30   |         |
+| 10   | Longest subarray with sum divisible by K                     | 20   |         | 30   |         |
 |      |                                                              |      |         | 31   |         |
