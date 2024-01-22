@@ -4,7 +4,7 @@
 | ---- | ------------------------------------------------------------ | ---- | -------------------------------------- | ---- | ------------------------------------ |
 | 1    | Array Pair Sum Divisibility Problem                          | 11   | Remove K Digits                        | 21   | Vertex Cover                         |
 | 2    | Largest Sum Subarray of Size at least K                      | 12   | Reverse First K elements of Queue      | 22   | Paths from root with a specified sum |
-| 3    | Smallest window containing 0, 1 and 2                        | 13   | Insertion Sort for Singly Linked List  | 23   |                                      |
+| 3    | Smallest window containing 0, 1 and 2                        | 13   | Insertion Sort for Singly Linked List  | 23   | Course Schedule                      |
 | 4    | Find element occuring once when all other are present thrice | 14   | Find duplicate rows in a binary matrix | 24   |                                      |
 | 5    | Count possible ways to construct buildings                   | 15   | Grinding Geek                          | 25   |                                      |
 | 6    | Techfest and the Queue                                       | 16   | Sequence of Sequence                   | 26   |                                      |
