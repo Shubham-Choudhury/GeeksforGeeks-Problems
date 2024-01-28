@@ -9,7 +9,7 @@
 | 5    | Count possible ways to construct buildings                   | 15   | Grinding Geek                          | 25   | Shortest Prime Path                     |
 | 6    | Techfest and the Queue                                       | 16   | Sequence of Sequence                   | 26   | Fractional Knapsack                     |
 | 7    | Split Array Largest Sum                                      | 17   | All Unique Permutations of an array    | 27   | Brackets in Matrix Chain Multiplication |
-| 8    | Merge 2 sorted linked list in reverse order                  | 18   | Water the plants                       | 28   |                                         |
+| 8    | Merge 2 sorted linked list in reverse order                  | 18   | Water the plants                       | 28   | Geekina Hate 1s                         |
 | 9    | Search Pattern (KMP-Algorithm)                               | 19   | Top k numbers in a stream              | 29   |                                         |
 | 10   | Longest subarray with sum divisible by K                     | 20   | Distribute candies in a binary tree    | 30   |                                         |
 |      |                                                              |      |                                        | 31   |                                         |
