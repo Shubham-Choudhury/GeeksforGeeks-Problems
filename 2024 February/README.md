@@ -6,7 +6,7 @@
 | 2    | Implement Atoi                           | 12   |         | 22   |         |
 | 3    | Decimal Equivalent of Binary Linked List | 13   |         | 23   |         |
 | 4    | Subtraction in Linked List               | 14   |         | 24   |         |
-| 5    |                                          | 15   |         | 25   |         |
+| 5    | Sorted insert for circular linked list   | 15   |         | 25   |         |
 | 6    |                                          | 16   |         | 26   |         |
 | 7    |                                          | 17   |         | 27   |         |
 | 8    |                                          | 18   |         | 28   |         |
