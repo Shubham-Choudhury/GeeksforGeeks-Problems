@@ -9,6 +9,6 @@
 | 5    | Sorted insert for circular linked list                | 15   |         | 25   |         |
 | 6    | Node at distance                                      | 16   |         | 26   |         |
 | 7    | Min distance between two given nodes of a Binary Tree | 17   |         | 27   |         |
-| 8    |                                                       | 18   |         | 28   |         |
+| 8    | Check if all leaves are at same level                 | 18   |         | 28   |         |
 | 9    |                                                       | 19   |         | 29   |         |
 | 10   |                                                       | 20   |         |      |         |
