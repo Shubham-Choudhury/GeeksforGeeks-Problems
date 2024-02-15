@@ -7,7 +7,7 @@
 | 3    | Decimal Equivalent of Binary Linked List              | 13   | Clone an Undirected Graph                  | 23   |         |
 | 4    | Subtraction in Linked List                            | 14   | Find all Critical Connections in the Graph | 24   |         |
 | 5    | Sorted insert for circular linked list                | 15   | Count all Possible Path                    | 25   |         |
-| 6    | Node at distance                                      | 16   |                                            | 26   |         |
+| 6    | Node at distance                                      | 16   | Flatten BST to sorted list                 | 26   |         |
 | 7    | Min distance between two given nodes of a Binary Tree | 17   |                                            | 27   |         |
 | 8    | Check if all leaves are at same level                 | 18   |                                            | 28   |         |
 | 9    | Check for Children Sum Property in a Binary Tree      | 19   |                                            | 29   |         |
