@@ -6,7 +6,7 @@
 | 2    | Implement Atoi                                        | 12   | Recursive sequence                         | 22   |         |
 | 3    | Decimal Equivalent of Binary Linked List              | 13   | Clone an Undirected Graph                  | 23   |         |
 | 4    | Subtraction in Linked List                            | 14   | Find all Critical Connections in the Graph | 24   |         |
-| 5    | Sorted insert for circular linked list                | 15   |                                            | 25   |         |
+| 5    | Sorted insert for circular linked list                | 15   | Count all Possible Path                    | 25   |         |
 | 6    | Node at distance                                      | 16   |                                            | 26   |         |
 | 7    | Min distance between two given nodes of a Binary Tree | 17   |                                            | 27   |         |
 | 8    | Check if all leaves are at same level                 | 18   |                                            | 28   |         |
