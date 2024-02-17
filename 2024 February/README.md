@@ -9,6 +9,6 @@
 | 5    | Sorted insert for circular linked list                | 15   | Count all Possible Path                    | 25   |         |
 | 6    | Node at distance                                      | 16   | Flatten BST to sorted list                 | 26   |         |
 | 7    | Min distance between two given nodes of a Binary Tree | 17   | Does array represent Heap                  | 27   |         |
-| 8    | Check if all leaves are at same level                 | 18   |                                            | 28   |         |
+| 8    | Check if all leaves are at same level                 | 18   | Sum of leaf nodes in BST                   | 28   |         |
 | 9    | Check for Children Sum Property in a Binary Tree      | 19   |                                            | 29   |         |
 | 10   | Number of paths in a matrix with k coins              | 20   |                                            |      |         |
