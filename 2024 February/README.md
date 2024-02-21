@@ -3,7 +3,7 @@
 | Date | Problem                                               | Date | Problem                                    | Date | Problem                  |
 | ---- | ----------------------------------------------------- | ---- | ------------------------------------------ | ---- | ------------------------ |
 | 1    | Panagram Checking                                     | 11   | Recamans sequence                          | 21   | Boolean Parenthesization |
-| 2    | Implement Atoi                                        | 12   | Recursive sequence                         | 22   |                          |
+| 2    | Implement Atoi                                        | 12   | Recursive sequence                         | 22   | Distinct occurrences     |
 | 3    | Decimal Equivalent of Binary Linked List              | 13   | Clone an Undirected Graph                  | 23   |                          |
 | 4    | Subtraction in Linked List                            | 14   | Find all Critical Connections in the Graph | 24   |                          |
 | 5    | Sorted insert for circular linked list                | 15   | Count all Possible Path                    | 25   |                          |
