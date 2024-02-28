@@ -10,5 +10,5 @@
 | 6    | Node at distance                                      | 16   | Flatten BST to sorted list                 | 26   | Power Set                           |
 | 7    | Min distance between two given nodes of a Binary Tree | 17   | Does array represent Heap                  | 27   | Play With OR                        |
 | 8    | Check if all leaves are at same level                 | 18   | Sum of leaf nodes in BST                   | 28   | Check if a number is divisible by 8 |
-| 9    | Check for Children Sum Property in a Binary Tree      | 19   | Game with String                           | 29   |                                     |
+| 9    | Check for Children Sum Property in a Binary Tree      | 19   | Game with String                           | 29   | Sum of bit differences              |
 | 10   | Number of paths in a matrix with k coins              | 20   | Word Break                                 |      |                                     |
