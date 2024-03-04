@@ -5,7 +5,7 @@
 | 1    | Peak element                        | 11   |         | 21   |         |
 | 2    | First element to occur k times      | 12   |         | 22   |         |
 | 3    | Largest Number formed from an Array | 13   |         | 23   |         |
-| 4    |                                     | 14   |         | 24   |         |
+| 4    | Swap the array elements             | 14   |         | 24   |         |
 | 5    |                                     | 15   |         | 25   |         |
 | 6    |                                     | 16   |         | 26   |         |
 | 7    |                                     | 17   |         | 27   |         |
