@@ -11,4 +11,4 @@
 | 7    | Longest repeating and non-overlapping substring | 17   |         | 27   |         |
 | 8    | Check if frequencies can be equal               | 18   |         | 28   |         |
 | 9    | Find the N-th character                         | 19   |         | 29   |         |
-| 10   |                                                 | 20   |         | 30   |         |
+| 10   | Remove all duplicates from a given string       | 20   |         | 30   |         |
