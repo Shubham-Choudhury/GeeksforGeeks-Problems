@@ -10,5 +10,5 @@
 | 6    | Search Pattern (Rabin-Karp Algorithm)           | 16   | Delete without head pointer              | 26   |         |
 | 7    | Longest repeating and non-overlapping substring | 17   | Count Pairs whose sum is equal to X      | 27   |         |
 | 8    | Check if frequencies can be equal               | 18   | Level order traversal                    | 28   |         |
-| 9    | Find the N-th character                         | 19   |                                          | 29   |         |
+| 9    | Find the N-th character                         | 19   | Possible Paths in a Tree                 | 29   |         |
 | 10   | Remove all duplicates from a given string       | 20   |                                          | 30   |         |
