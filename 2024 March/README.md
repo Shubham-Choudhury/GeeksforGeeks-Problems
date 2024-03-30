@@ -11,5 +11,5 @@
 | 7    | Longest repeating and non-overlapping substring | 17   | Count Pairs whose sum is equal to X                     | 27   | Find shortest safe route in a matrix                               |
 | 8    | Check if frequencies can be equal               | 18   | Level order traversal                                   | 28   | City With the Smallest Number of Neighbors at a Threshold Distance |
 | 9    | Find the N-th character                         | 19   | Possible Paths in a Tree                                | 29   | Euler Circuit in an Undirected Graph                               |
-| 10   | Remove all duplicates from a given string       | 20   | Sum of nodes on the longest path from root to leaf node | 30   |                                                                    |
+| 10   | Remove all duplicates from a given string       | 20   | Sum of nodes on the longest path from root to leaf node | 30   | Minimum element in BST                                             |
 |      |                                                 |      |                                                         | 31   |                                                                    |
