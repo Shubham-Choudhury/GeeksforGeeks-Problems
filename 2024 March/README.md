@@ -12,4 +12,4 @@
 | 8    | Check if frequencies can be equal               | 18   | Level order traversal                                   | 28   | City With the Smallest Number of Neighbors at a Threshold Distance |
 | 9    | Find the N-th character                         | 19   | Possible Paths in a Tree                                | 29   | Euler Circuit in an Undirected Graph                               |
 | 10   | Remove all duplicates from a given string       | 20   | Sum of nodes on the longest path from root to leaf node | 30   | Minimum element in BST                                             |
-|      |                                                 |      |                                                         | 31   |                                                                    |
+|      |                                                 |      |                                                         | 31   | Closest Neighbour in BST                                           |
