@@ -4,7 +4,7 @@
 | ---- | ---------------------------------- | ---- | ------- | ---- | ------- |
 | 1    | Pairs violating the BST property   | 11   |         | 21   |         |
 | 2    | Minimum Absolute Difference In BST | 12   |         | 22   |         |
-| 3    |                                    | 13   |         | 23   |         |
+| 3    | Kth common ancestor in BST         | 13   |         | 23   |         |
 | 4    |                                    | 14   |         | 24   |         |
 | 5    |                                    | 15   |         | 25   |         |
 | 6    |                                    | 16   |         | 26   |         |
