@@ -9,6 +9,6 @@
 | 5    | Strictly Increasing Array          | 15   |         | 25   |         |
 | 6    | Count ways to N'th Stair           | 16   |         | 26   |         |
 | 7    | Maximize dot product               | 17   |         | 27   |         |
-| 8    |                                    | 18   |         | 28   |         |
+| 8    | Optimal Strategy For A Game        | 18   |         | 28   |         |
 | 9    |                                    | 19   |         | 29   |         |
 | 10   |                                    | 20   |         | 30   |         |
