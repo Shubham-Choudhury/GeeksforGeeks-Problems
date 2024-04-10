@@ -11,4 +11,4 @@
 | 7    | Maximize dot product                | 17   |         | 27   |         |
 | 8    | Optimal Strategy For A Game         | 18   |         | 28   |         |
 | 9    | Minimum Points To Reach Destination | 19   |         | 29   |         |
-| 10   |                                     | 20   |         | 30   |         |
+| 10   | Party of Couples                    | 20   |         | 30   |         |
