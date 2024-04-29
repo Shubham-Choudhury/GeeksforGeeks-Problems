@@ -10,5 +10,5 @@
 | 6    | Count ways to N'th Stair            | 16   | Minimize the Difference      | 26   | Exit Point in a Matrix           |
 | 7    | Maximize dot product                | 17   | Count Pairs in an Array      | 27   | Merge Sort on Doubly Linked List |
 | 8    | Optimal Strategy For A Game         | 18   | Two Repeated Elements        | 28   | Delete Middle of Linked List     |
-| 9    | Minimum Points To Reach Destination | 19   | Find missing in second array | 29   |                                  |
+| 9    | Minimum Points To Reach Destination | 19   | Find missing in second array | 29   | Remove every kth node            |
 | 10   | Party of Couples                    | 20   | Union of Two Sorted Arrays   | 30   |                                  |
