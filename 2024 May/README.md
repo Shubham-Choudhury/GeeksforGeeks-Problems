@@ -4,7 +4,7 @@
 | ---- | --------------------------------------- | ---- | ------- | ---- | ------- |
 | 1    | Arrange Consonants and Vowels           | 11   |         | 21   |         |
 | 2    | Serialize and deserialize a binary tree | 12   |         | 22   |         |
-| 3    |                                         | 13   |         | 23   |         |
+| 3    | K distance from root                    | 13   |         | 23   |         |
 | 4    |                                         | 14   |         | 24   |         |
 | 5    |                                         | 15   |         | 25   |         |
 | 6    |                                         | 16   |         | 26   |         |
