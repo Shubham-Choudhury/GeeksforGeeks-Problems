@@ -9,7 +9,7 @@
 | 5    | Vertical sum                                     | 15   |         | 25   |         |
 | 6    | Print all nodes that don't have sibling          | 16   |         | 26   |         |
 | 7    | Reverse Level Order Traversal                    | 17   |         | 27   |         |
-| 8    |                                                  | 18   |         | 28   |         |
+| 8    | Root to Leaf Paths                               | 18   |         | 28   |         |
 | 9    |                                                  | 19   |         | 29   |         |
 | 10   |                                                  | 20   |         | 30   |         |
 |      |                                                  |      |         | 31   |         |
