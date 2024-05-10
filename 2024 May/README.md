@@ -11,5 +11,5 @@
 | 7    | Reverse Level Order Traversal                    | 17   |         | 27   |         |
 | 8    | Root to Leaf Paths                               | 18   |         | 28   |         |
 | 9    | Divisor Game                                     | 19   |         | 29   |         |
-| 10   |                                                  | 20   |         | 30   |         |
+| 10   | Combination Sum II                               | 20   |         | 30   |         |
 |      |                                                  |      |         | 31   |         |
