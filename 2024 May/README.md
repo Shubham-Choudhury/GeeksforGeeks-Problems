@@ -10,6 +10,6 @@
 | 6    | Print all nodes that don't have sibling          | 16   | Divisibility tree            | 26   |         |
 | 7    | Reverse Level Order Traversal                    | 17   | Find Pair Given Difference   | 27   |         |
 | 8    | Root to Leaf Paths                               | 18   | Find the Highest number      | 28   |         |
-| 9    | Divisor Game                                     | 19   |                              | 29   |         |
+| 9    | Divisor Game                                     | 19   | Find the closest number      | 29   |         |
 | 10   | Combination Sum II                               | 20   |                              | 30   |         |
 |      |                                                  |      |                              | 31   |         |
