@@ -12,4 +12,4 @@
 | 8    | Root to Leaf Paths                               | 18   | Find the Highest number                  | 28   | Minimum cost to fill given weight in a bag |
 | 9    | Divisor Game                                     | 19   | Find the closest number                  | 29   | Geek and its Game of Coins                 |
 | 10   | Combination Sum II                               | 20   | Modular Exponentiation for large numbers | 30   | String Subsequence                         |
-|      |                                                  |      |                                          | 31   |                                            |
+|      |                                                  |      |                                          | 31   | Swap two nibbles in a byte                 |
