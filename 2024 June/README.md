@@ -5,7 +5,7 @@
 | 1    | Odd Even Problem                         | 11   |         | 21   |         |
 | 2    | Construct list using given q XOR queries | 12   |         | 22   |         |
 | 3    | Trail of ones                            | 13   |         | 23   |         |
-| 4    |                                          | 14   |         | 24   |         |
+| 4    | Binary representation of next number     | 14   |         | 24   |         |
 | 5    |                                          | 15   |         | 25   |         |
 | 6    |                                          | 16   |         | 26   |         |
 | 7    |                                          | 17   |         | 27   |         |
