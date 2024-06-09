@@ -10,5 +10,5 @@
 | 6    | Max sum in the configuration             | 16   |         | 26   |         |
 | 7    | Maximum occured integer                  | 17   |         | 27   |         |
 | 8    | Index of an Extra Element                | 18   |         | 28   |         |
-| 9    |                                          | 19   |         | 29   |         |
+| 9    | Convert array into Zig-Zag fashion       | 19   |         | 29   |         |
 | 10   |                                          | 20   |         | 30   |         |
