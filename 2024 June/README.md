@@ -11,4 +11,4 @@
 | 7    | Maximum occured integer                  | 17   |         | 27   |         |
 | 8    | Index of an Extra Element                | 18   |         | 28   |         |
 | 9    | Convert array into Zig-Zag fashion       | 19   |         | 29   |         |
-| 10   |                                          | 20   |         | 30   |         |
+| 10   | Nuts and Bolts Problem                   | 20   |         | 30   |         |
