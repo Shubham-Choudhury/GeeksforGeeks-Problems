@@ -4,7 +4,7 @@
 | ---- | ---------------------------------------- | ---- | -------------------------- | ---- | ------- |
 | 1    | Odd Even Problem                         | 11   | Maximum Tip Calculator     | 21   |         |
 | 2    | Construct list using given q XOR queries | 12   | Count numbers containing 4 | 22   |         |
-| 3    | Trail of ones                            | 13   |                            | 23   |         |
+| 3    | Trail of ones                            | 13   | Padovan Sequence           | 23   |         |
 | 4    | Binary representation of next number     | 14   |                            | 24   |         |
 | 5    | Swapping pairs make sum equal            | 15   |                            | 25   |         |
 | 6    | Max sum in the configuration             | 16   |                            | 26   |         |
