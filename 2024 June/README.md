@@ -7,7 +7,7 @@
 | 3    | Trail of ones                            | 13   | Padovan Sequence           | 23   |         |
 | 4    | Binary representation of next number     | 14   | Armstrong Numbers          | 24   |         |
 | 5    | Swapping pairs make sum equal            | 15   | Mobile numeric keypad      | 25   |         |
-| 6    | Max sum in the configuration             | 16   |                            | 26   |         |
+| 6    | Max sum in the configuration             | 16   | Prime Pair with Target Sum | 26   |         |
 | 7    | Maximum occured integer                  | 17   |                            | 27   |         |
 | 8    | Index of an Extra Element                | 18   |                            | 28   |         |
 | 9    | Convert array into Zig-Zag fashion       | 19   |                            | 29   |         |
