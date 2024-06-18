@@ -9,6 +9,6 @@
 | 5    | Swapping pairs make sum equal            | 15   | Mobile numeric keypad                | 25   |         |
 | 6    | Max sum in the configuration             | 16   | Prime Pair with Target Sum           | 26   |         |
 | 7    | Maximum occured integer                  | 17   | Check If two Line segments Intersect | 27   |         |
-| 8    | Index of an Extra Element                | 18   |                                      | 28   |         |
+| 8    | Index of an Extra Element                | 18   | Number of Rectangles in a Circle     | 28   |         |
 | 9    | Convert array into Zig-Zag fashion       | 19   |                                      | 29   |         |
 | 10   | Nuts and Bolts Problem                   | 20   |                                      | 30   |         |
