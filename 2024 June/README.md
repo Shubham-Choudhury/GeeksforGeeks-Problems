@@ -11,4 +11,4 @@
 | 7    | Maximum occured integer                  | 17   | Check If two Line segments Intersect | 27   |         |
 | 8    | Index of an Extra Element                | 18   | Number of Rectangles in a Circle     | 28   |         |
 | 9    | Convert array into Zig-Zag fashion       | 19   | Find maximum volume of a cuboid      | 29   |         |
-| 10   | Nuts and Bolts Problem                   | 20   |                                      | 30   |         |
+| 10   | Nuts and Bolts Problem                   | 20   | Integral Points Inside Triangle      | 30   |         |
