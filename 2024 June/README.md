@@ -4,7 +4,7 @@
 | ---- | ---------------------------------------- | ---- | ------------------------------------ | ---- | ---------------------------------- |
 | 1    | Odd Even Problem                         | 11   | Maximum Tip Calculator               | 21   | Compare two fractions              |
 | 2    | Construct list using given q XOR queries | 12   | Count numbers containing 4           | 22   | Extract the Number from the String |
-| 3    | Trail of ones                            | 13   | Padovan Sequence                     | 23   |                                    |
+| 3    | Trail of ones                            | 13   | Padovan Sequence                     | 23   | Print Bracket Number               |
 | 4    | Binary representation of next number     | 14   | Armstrong Numbers                    | 24   |                                    |
 | 5    | Swapping pairs make sum equal            | 15   | Mobile numeric keypad                | 25   |                                    |
 | 6    | Max sum in the configuration             | 16   | Prime Pair with Target Sum           | 26   |                                    |
