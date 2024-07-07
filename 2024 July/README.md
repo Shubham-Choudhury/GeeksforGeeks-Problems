@@ -8,7 +8,7 @@
 | 4    | Duplicate Subtrees                                   | 14   |         | 24   |         |
 | 5    | Vertical Width of a Binary Tree                      | 15   |         | 25   |         |
 | 6    | Populate Inorder Successor for all nodes             | 16   |         | 26   |         |
-| 7    |                                                      | 17   |         | 27   |         |
+| 7    | Ancestors in Binary Tree                             | 17   |         | 27   |         |
 | 8    |                                                      | 18   |         | 28   |         |
 | 9    |                                                      | 19   |         | 29   |         |
 | 10   |                                                      | 20   |         | 30   |         |
