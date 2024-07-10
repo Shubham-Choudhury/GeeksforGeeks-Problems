@@ -11,5 +11,5 @@
 | 7    | Ancestors in Binary Tree                             | 17   |         | 27   |         |
 | 8    | Search in Rotated Sorted Array                       | 18   |         | 28   |         |
 | 9    | Closest Three Sum                                    | 19   |         | 29   |         |
-| 10   |                                                      | 20   |         | 30   |         |
+| 10   | Largest square formed in a matrix                    | 20   |         | 30   |         |
 |      |                                                      |      |         | 31   |         |
