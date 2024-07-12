@@ -3,7 +3,7 @@
 | Date | Problem                                              | Date | Problem                 | Date | Problem |
 | ---- | ---------------------------------------------------- | ---- | ----------------------- | ---- | ------- |
 | 1    | Make Binary Tree From Linked List                    | 11   | Maximum Connected group | 21   |         |
-| 2    | linked list of strings forms a palindrome            | 12   |                         | 22   |         |
+| 2    | linked list of strings forms a palindrome            | 12   | Root to leaf path sum   | 22   |         |
 | 3    | Remove all occurences of duplicates in a linked list | 13   |                         | 23   |         |
 | 4    | Duplicate Subtrees                                   | 14   |                         | 24   |         |
 | 5    | Vertical Width of a Binary Tree                      | 15   |                         | 25   |         |
