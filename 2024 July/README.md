@@ -8,7 +8,7 @@
 | 4    | Duplicate Subtrees                                   | 14   | Segregate 0s and 1s                        | 24   |         |
 | 5    | Vertical Width of a Binary Tree                      | 15   | Smallest number                            | 25   |         |
 | 6    | Populate Inorder Successor for all nodes             | 16   | Remaining String                           | 26   |         |
-| 7    | Ancestors in Binary Tree                             | 17   |                                            | 27   |         |
+| 7    | Ancestors in Binary Tree                             | 17   | Construct Binary Tree from Parent Array    | 27   |         |
 | 8    | Search in Rotated Sorted Array                       | 18   |                                            | 28   |         |
 | 9    | Closest Three Sum                                    | 19   |                                            | 29   |         |
 | 10   | Largest square formed in a matrix                    | 20   |                                            | 30   |         |
