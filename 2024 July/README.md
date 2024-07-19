@@ -10,6 +10,6 @@
 | 6    | Populate Inorder Successor for all nodes             | 16   | Remaining String                           | 26   |         |
 | 7    | Ancestors in Binary Tree                             | 17   | Construct Binary Tree from Parent Array    | 27   |         |
 | 8    | Search in Rotated Sorted Array                       | 18   | Longest alternating subsequence            | 28   |         |
-| 9    | Closest Three Sum                                    | 19   |                                            | 29   |         |
+| 9    | Closest Three Sum                                    | 19   | Count Smaller elements                     | 29   |         |
 | 10   | Largest square formed in a matrix                    | 20   |                                            | 30   |         |
 |      |                                                      |      |                                            | 31   |         |
