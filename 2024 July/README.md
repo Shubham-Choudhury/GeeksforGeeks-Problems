@@ -9,7 +9,7 @@
 | 5    | Vertical Width of a Binary Tree                      | 15   | Smallest number                            | 25   | Array to BST                       |
 | 6    | Populate Inorder Successor for all nodes             | 16   | Remaining String                           | 26   | K-Pangrams                         |
 | 7    | Ancestors in Binary Tree                             | 17   | Construct Binary Tree from Parent Array    | 27   | Form a palindrome                  |
-| 8    | Search in Rotated Sorted Array                       | 18   | Longest alternating subsequence            | 28   |                                    |
+| 8    | Search in Rotated Sorted Array                       | 18   | Longest alternating subsequence            | 28   | Remove Duplicates                  |
 | 9    | Closest Three Sum                                    | 19   | Count Smaller elements                     | 29   |                                    |
 | 10   | Largest square formed in a matrix                    | 20   | Remove Half Nodes                          | 30   |                                    |
 |      |                                                      |      |                                            | 31   |                                    |
