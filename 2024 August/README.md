@@ -9,6 +9,6 @@
 | 5    | Bottom View of Binary Tree   | 15   |         | 25   |         |
 | 6    | Validate an IP Address       | 16   |         | 26   |         |
 | 7    | K-th element of two Arrays   | 17   |         | 27   |         |
-| 8    |                              | 18   |         | 28   |         |
+| 8    | Sum Tree                     | 18   |         | 28   |         |
 | 9    |                              | 19   |         | 29   |         |
 | 10   |                              | 20   |         | 30   |         |
