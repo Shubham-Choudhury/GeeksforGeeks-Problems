@@ -11,4 +11,4 @@
 | 7    | K-th element of two Arrays               | 17   |         | 27   |         |
 | 8    | Sum Tree                                 | 18   |         | 28   |         |
 | 9    | Maximize Array Value After Rearrangement | 19   |         | 29   |         |
-| 10   |                                          | 20   |         | 30   |         |
+| 10   | Rotate a Linked List                     | 20   |         | 30   |         |
