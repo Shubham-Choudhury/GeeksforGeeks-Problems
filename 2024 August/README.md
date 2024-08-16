@@ -7,7 +7,7 @@
 | 3    | The Celebrity Problem                    | 13   | Square root of a number       | 23   |         |
 | 4    | N meetings in one room                   | 14   | Longest Common Substring      | 24   |         |
 | 5    | Bottom View of Binary Tree               | 15   | Add 1 to a Linked List Number | 25   |         |
-| 6    | Validate an IP Address                   | 16   |                               | 26   |         |
+| 6    | Validate an IP Address                   | 16   | Maximize The Cut Segments     | 26   |         |
 | 7    | K-th element of two Arrays               | 17   |                               | 27   |         |
 | 8    | Sum Tree                                 | 18   |                               | 28   |         |
 | 9    | Maximize Array Value After Rearrangement | 19   |                               | 29   |         |
