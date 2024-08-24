@@ -5,7 +5,7 @@
 | 1    | Spirally traversing a matrix             | 11   | Job Sequencing Problem                      | 21   | Shortest path in Undirected Graph |
 | 2    | Edit Distance                            | 12   | Median of two sorted arrays                 | 22   | Alien Dictionary                  |
 | 3    | The Celebrity Problem                    | 13   | Square root of a number                     | 23   | Left View of Binary Tree          |
-| 4    | N meetings in one room                   | 14   | Longest Common Substring                    | 24   |                                   |
+| 4    | N meetings in one room                   | 14   | Longest Common Substring                    | 24   | 0 - 1 Knapsack Problem            |
 | 5    | Bottom View of Binary Tree               | 15   | Add 1 to a Linked List Number               | 25   |                                   |
 | 6    | Validate an IP Address                   | 16   | Maximize The Cut Segments                   | 26   |                                   |
 | 7    | K-th element of two Arrays               | 17   | Product array puzzle                        | 27   |                                   |
