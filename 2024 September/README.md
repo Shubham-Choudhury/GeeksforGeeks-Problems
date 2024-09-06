@@ -7,7 +7,7 @@
 | 3    | Minimum number of deletions and insertions      | 13   |         | 23   |         |
 | 4    | Count ways to N'th Stair(Order does not matter) | 14   |         | 24   |         |
 | 5    | Missing in Array                                | 15   |         | 25   |         |
-| 6    |                                                 | 16   |         | 26   |         |
+| 6    | Kadane's Algorithm                              | 16   |         | 26   |         |
 | 7    |                                                 | 17   |         | 27   |         |
 | 8    |                                                 | 18   |         | 28   |         |
 | 9    |                                                 | 19   |         | 29   |         |
