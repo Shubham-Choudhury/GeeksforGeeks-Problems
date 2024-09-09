@@ -11,4 +11,4 @@
 | 7    | Nth Natural Number                              | 17   |         | 27   |         |
 | 8    | Minimum Jumps                                   | 18   |         | 28   |         |
 | 9    | Sort 0s, 1s and 2s                              | 19   |         | 29   |         |
-| 10   |                                                 | 20   |         | 30   |         |
+| 10   | Circle of strings                               | 20   |         | 30   |         |
