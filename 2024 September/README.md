@@ -4,7 +4,7 @@
 | ---- | ----------------------------------------------- | ---- | ----------------------- | ---- | ------- |
 | 1    | Max sum path in two arrays                      | 11   | Minimum Cost of ropes   | 21   |         |
 | 2    | Minimum Cost Path                               | 12   | Middle of a Linked List | 22   |         |
-| 3    | Minimum number of deletions and insertions      | 13   |                         | 23   |         |
+| 3    | Minimum number of deletions and insertions      | 13   | Mirror Tree             | 23   |         |
 | 4    | Count ways to N'th Stair(Order does not matter) | 14   |                         | 24   |         |
 | 5    | Missing in Array                                | 15   |                         | 25   |         |
 | 6    | Kadane's Algorithm                              | 16   |                         | 26   |         |
