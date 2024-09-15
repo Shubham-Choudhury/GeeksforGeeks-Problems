@@ -6,7 +6,7 @@
 | 2    | Minimum Cost Path                               | 12   | Middle of a Linked List                 | 22   |         |
 | 3    | Minimum number of deletions and insertions      | 13   | Mirror Tree                             | 23   |         |
 | 4    | Count ways to N'th Stair(Order does not matter) | 14   | Alternate positive and negative numbers | 24   |         |
-| 5    | Missing in Array                                | 15   |                                         | 25   |         |
+| 5    | Missing in Array                                | 15   | Binary Tree to DLL                      | 25   |         |
 | 6    | Kadane's Algorithm                              | 16   |                                         | 26   |         |
 | 7    | Nth Natural Number                              | 17   |                                         | 27   |         |
 | 8    | Minimum Jumps                                   | 18   |                                         | 28   |         |
