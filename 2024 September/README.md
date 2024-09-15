@@ -7,7 +7,7 @@
 | 3    | Minimum number of deletions and insertions      | 13   | Mirror Tree                             | 23   |         |
 | 4    | Count ways to N'th Stair(Order does not matter) | 14   | Alternate positive and negative numbers | 24   |         |
 | 5    | Missing in Array                                | 15   | Binary Tree to DLL                      | 25   |         |
-| 6    | Kadane's Algorithm                              | 16   |                                         | 26   |         |
+| 6    | Kadane's Algorithm                              | 16   | Longest valid Parentheses               | 26   |         |
 | 7    | Nth Natural Number                              | 17   |                                         | 27   |         |
 | 8    | Minimum Jumps                                   | 18   |                                         | 28   |         |
 | 9    | Sort 0s, 1s and 2s                              | 19   |                                         | 29   |         |
