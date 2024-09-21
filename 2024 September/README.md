@@ -3,7 +3,7 @@
 | Date | Problem                                         | Date | Problem                                 | Date | Problem                                          |
 | ---- | ----------------------------------------------- | ---- | --------------------------------------- | ---- | ------------------------------------------------ |
 | 1    | Max sum path in two arrays                      | 11   | Minimum Cost of ropes                   | 21   | Clone a linked list with next and random pointer |
-| 2    | Minimum Cost Path                               | 12   | Middle of a Linked List                 | 22   |                                                  |
+| 2    | Minimum Cost Path                               | 12   | Middle of a Linked List                 | 22   | Longest Prefix Suffix                            |
 | 3    | Minimum number of deletions and insertions      | 13   | Mirror Tree                             | 23   |                                                  |
 | 4    | Count ways to N'th Stair(Order does not matter) | 14   | Alternate positive and negative numbers | 24   |                                                  |
 | 5    | Missing in Array                                | 15   | Binary Tree to DLL                      | 25   |                                                  |
