@@ -10,5 +10,5 @@
 | 6    | Kadane's Algorithm                              | 16   | Longest valid Parentheses               | 26   | Roof Top                                                                    |
 | 7    | Nth Natural Number                              | 17   | Minimize the Heights II                 | 27   | K Sized Subarray Maximum                                                    |
 | 8    | Minimum Jumps                                   | 18   | Parenthesis Checker                     | 28   | Minimal Cost                                                                |
-| 9    | Sort 0s, 1s and 2s                              | 19   | Reverse Words                           | 29   |                                                                             |
+| 9    | Sort 0s, 1s and 2s                              | 19   | Reverse Words                           | 29   | Total count                                                                 |
 | 10   | Circle of strings                               | 20   | Facing the sun                          | 30   |                                                                             |
