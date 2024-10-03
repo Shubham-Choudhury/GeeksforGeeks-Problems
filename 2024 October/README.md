@@ -1,14 +1,14 @@
 ## October 2024
 
-| Date | Problem                   | Date | Problem | Date | Problem |
-| ---- | ------------------------- | ---- | ------- | ---- | ------- |
-| 1    | Multiply two linked lists | 11   |         | 21   |         |
-| 2    | Rotate and delete         | 12   |         | 22   |         |
-| 3    | Majority Vote             | 13   |         | 23   |         |
-| 4    |                           | 14   |         | 24   |         |
-| 5    |                           | 15   |         | 25   |         |
-| 6    |                           | 16   |         | 26   |         |
-| 7    |                           | 17   |         | 27   |         |
-| 8    |                           | 18   |         | 28   |         |
-| 9    |                           | 19   |         | 29   |         |
-| 10   |                           | 20   |         | 30   |         |
+| Date | Problem                                      | Date | Problem | Date | Problem |
+| ---- | -------------------------------------------- | ---- | ------- | ---- | ------- |
+| 1    | Multiply two linked lists                    | 11   |         | 21   |         |
+| 2    | Rotate and delete                            | 12   |         | 22   |         |
+| 3    | Majority Vote                                | 13   |         | 23   |         |
+| 4    | Deletion and Reverse in Circular Linked List | 14   |         | 24   |         |
+| 5    |                                              | 15   |         | 25   |         |
+| 6    |                                              | 16   |         | 26   |         |
+| 7    |                                              | 17   |         | 27   |         |
+| 8    |                                              | 18   |         | 28   |         |
+| 9    |                                              | 19   |         | 29   |         |
+| 10   |                                              | 20   |         | 30   |         |
