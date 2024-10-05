@@ -6,7 +6,7 @@
 | 2    | Rotate and delete                            | 12   |         | 22   |         |
 | 3    | Majority Vote                                | 13   |         | 23   |         |
 | 4    | Deletion and Reverse in Circular Linked List | 14   |         | 24   |         |
-| 5    |                                              | 15   |         | 25   |         |
+| 5    | Not a subset sum                             | 15   |         | 25   |         |
 | 6    |                                              | 16   |         | 26   |         |
 | 7    |                                              | 17   |         | 27   |         |
 | 8    |                                              | 18   |         | 28   |         |
