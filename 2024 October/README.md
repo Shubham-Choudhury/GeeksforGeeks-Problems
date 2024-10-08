@@ -10,5 +10,5 @@
 | 6    | Find the number of islands                   | 16   |         | 26   |         |
 | 7    | XOR Linked List                              | 17   |         | 27   |         |
 | 8    | Largest Pair Sum                             | 18   |         | 28   |         |
-| 9    |                                              | 19   |         | 29   |         |
+| 9    | Linked List Matrix                           | 19   |         | 29   |         |
 | 10   |                                              | 20   |         | 30   |         |
