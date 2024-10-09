@@ -11,4 +11,4 @@
 | 7    | XOR Linked List                              | 17   |         | 27   |         |
 | 8    | Largest Pair Sum                             | 18   |         | 28   |         |
 | 9    | Linked List Matrix                           | 19   |         | 29   |         |
-| 10   |                                              | 20   |         | 30   |         |
+| 10   | Max distance between same elements           | 20   |         | 30   |         |
