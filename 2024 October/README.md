@@ -10,5 +10,5 @@
 | 6    | Find the number of islands                   | 16   | Two Swaps                       | 26   |         |
 | 7    | XOR Linked List                              | 17   | Split Linked List Alternatingly | 27   |         |
 | 8    | Largest Pair Sum                             | 18   | Single Number                   | 28   |         |
-| 9    | Linked List Matrix                           | 19   |                                 | 29   |         |
+| 9    | Linked List Matrix                           | 19   | Nearest multiple of 10          | 29   |         |
 | 10   | Max distance between same elements           | 20   |                                 | 30   |         |
