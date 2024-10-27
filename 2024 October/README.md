@@ -8,7 +8,7 @@
 | 4    | Deletion and Reverse in Circular Linked List | 14   | Count Linked List Nodes            | 24   | Modify the Array                                |
 | 5    | Not a subset sum                             | 15   | Subarray range with given sum      | 25   | Alternative Sorting                             |
 | 6    | Find the number of islands                   | 16   | Two Swaps                          | 26   | Occurence of an integer in a Linked List        |
-| 7    | XOR Linked List                              | 17   | Split Linked List Alternatingly    | 27   |                                                 |
+| 7    | XOR Linked List                              | 17   | Split Linked List Alternatingly    | 27   | Triplet Family                                  |
 | 8    | Largest Pair Sum                             | 18   | Single Number                      | 28   |                                                 |
 | 9    | Linked List Matrix                           | 19   | Nearest multiple of 10             | 29   |                                                 |
 | 10   | Max distance between same elements           | 20   | Sort a k sorted doubly linked list | 30   |                                                 |
