@@ -10,5 +10,5 @@
 | 6    | Find the number of islands                   | 16   | Two Swaps                          | 26   | Occurence of an integer in a Linked List        |
 | 7    | XOR Linked List                              | 17   | Split Linked List Alternatingly    | 27   | Triplet Family                                  |
 | 8    | Largest Pair Sum                             | 18   | Single Number                      | 28   | Remove duplicates in array                      |
-| 9    | Linked List Matrix                           | 19   | Nearest multiple of 10             | 29   |                                                 |
+| 9    | Linked List Matrix                           | 19   | Nearest multiple of 10             | 29   | Quick Sort on Linked List                       |
 | 10   | Max distance between same elements           | 20   | Sort a k sorted doubly linked list | 30   |                                                 |
