@@ -12,4 +12,4 @@
 | 8    | Largest Pair Sum                             | 18   | Single Number                      | 28   | Remove duplicates in array                      |
 | 9    | Linked List Matrix                           | 19   | Nearest multiple of 10             | 29   | Quick Sort on Linked List                       |
 | 10   | Max distance between same elements           | 20   | Sort a k sorted doubly linked list | 30   | Pairs with difference k                         |
-|      |                                              |      |                                    | 31   |                                                 |
+|      |                                              |      |                                    | 31   | Insert in Sorted way in a Sorted DLL            |
