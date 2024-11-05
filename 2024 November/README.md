@@ -6,7 +6,7 @@
 | 2    | Kth distance                    | 12   |         | 22   |         |
 | 3    | Is Linked List Length Even?     | 13   |         | 23   |         |
 | 4    | Find All Triplets with Zero Sum | 14   |         | 24   |         |
-| 5    |                                 | 15   |         | 25   |         |
+| 5    | Rotate by 90 degree             | 15   |         | 25   |         |
 | 6    |                                 | 16   |         | 26   |         |
 | 7    |                                 | 17   |         | 27   |         |
 | 8    |                                 | 18   |         | 28   |         |
