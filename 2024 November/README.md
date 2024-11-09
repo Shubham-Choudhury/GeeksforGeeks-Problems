@@ -10,5 +10,5 @@
 | 6    | Root to leaf paths sum                   | 16   |         | 26   |         |
 | 7    | Split array in three equal sum subarrays | 17   |         | 27   |         |
 | 8    | Minimum repeat to make substring         | 18   |         | 28   |         |
-| 9    |                                          | 19   |         | 29   |         |
+| 9    | Minimum sum                              | 19   |         | 29   |         |
 | 10   |                                          | 20   |         | 30   |         |
