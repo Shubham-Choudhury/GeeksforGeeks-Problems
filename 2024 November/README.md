@@ -3,7 +3,7 @@
 | Date | Problem                                           | Date | Problem                    | Date | Problem |
 | ---- | ------------------------------------------------- | ---- | -------------------------- | ---- | ------- |
 | 1    | Swap and Maximize                                 | 11   | Make array elements unique | 21   |         |
-| 2    | Kth distance                                      | 12   |                            | 22   |         |
+| 2    | Kth distance                                      | 12   | Meeting Rooms              | 22   |         |
 | 3    | Is Linked List Length Even?                       | 13   |                            | 23   |         |
 | 4    | Find All Triplets with Zero Sum                   | 14   |                            | 24   |         |
 | 5    | Rotate by 90 degree                               | 15   |                            | 25   |         |
