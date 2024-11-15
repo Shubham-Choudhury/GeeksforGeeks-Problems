@@ -7,7 +7,7 @@
 | 3    | Is Linked List Length Even?                       | 13   | Intersection Point in Y Shaped Linked Lists | 23   |         |
 | 4    | Find All Triplets with Zero Sum                   | 14   | Nearly sorted                               | 24   |         |
 | 5    | Rotate by 90 degree                               | 15   | Second Largest                              | 25   |         |
-| 6    | Root to leaf paths sum                            | 16   |                                             | 26   |         |
+| 6    | Root to leaf paths sum                            | 16   | Move All Zeroes to End                      | 26   |         |
 | 7    | Split array in three equal sum subarrays          | 17   |                                             | 27   |         |
 | 8    | Minimum repeat to make substring                  | 18   |                                             | 28   |         |
 | 9    | Minimum sum                                       | 19   |                                             | 29   |         |
