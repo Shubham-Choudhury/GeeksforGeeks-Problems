@@ -10,5 +10,5 @@
 | 6    | Root to leaf paths sum                            | 16   | Move All Zeroes to End                      | 26   |         |
 | 7    | Split array in three equal sum subarrays          | 17   | Reverse an Array                            | 27   |         |
 | 8    | Minimum repeat to make substring                  | 18   | Rotate Array                                | 28   |         |
-| 9    | Minimum sum                                       | 19   |                                             | 29   |         |
+| 9    | Minimum sum                                       | 19   | Next Permutation                            | 29   |         |
 | 10   | Union of Two Sorted Arrays with Distinct Elements | 20   |                                             | 30   |         |
