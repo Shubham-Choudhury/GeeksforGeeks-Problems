@@ -3,7 +3,7 @@
 | Date | Problem                                           | Date | Problem                                     | Date | Problem                                           |
 | ---- | ------------------------------------------------- | ---- | ------------------------------------------- | ---- | ------------------------------------------------- |
 | 1    | Swap and Maximize                                 | 11   | Make array elements unique                  | 21   | Stock Buy and Sell – Multiple Transaction Allowed |
-| 2    | Kth distance                                      | 12   | Meeting Rooms                               | 22   |                                                   |
+| 2    | Kth distance                                      | 12   | Meeting Rooms                               | 22   | Stock Buy and Sell – Max one Transaction Allowed  |
 | 3    | Is Linked List Length Even?                       | 13   | Intersection Point in Y Shaped Linked Lists | 23   |                                                   |
 | 4    | Find All Triplets with Zero Sum                   | 14   | Nearly sorted                               | 24   |                                                   |
 | 5    | Rotate by 90 degree                               | 15   | Second Largest                              | 25   |                                                   |
