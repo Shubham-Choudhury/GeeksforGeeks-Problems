@@ -11,4 +11,4 @@
 | 7    | Split array in three equal sum subarrays          | 17   | Reverse an Array                            | 27   | Smallest Positive Missing Number                  |
 | 8    | Minimum repeat to make substring                  | 18   | Rotate Array                                | 28   | Implement Atoi                                    |
 | 9    | Minimum sum                                       | 19   | Next Permutation                            | 29   | Add Binary Strings                                |
-| 10   | Union of Two Sorted Arrays with Distinct Elements | 20   | Majority Element II                         | 30   |                                                   |
+| 10   | Union of Two Sorted Arrays with Distinct Elements | 20   | Majority Element II                         | 30   | Anagram                                           |
