@@ -6,7 +6,7 @@
 | 2    | Search Pattern (KMP-Algorithm)  | 12   |         | 22   |         |
 | 3    | Min Chars to Add for Palindrome | 13   |         | 23   |         |
 | 4    | Strings Rotations of Each Other | 14   |         | 24   |         |
-| 5    |                                 | 15   |         | 25   |         |
+| 5    | Sort 0s, 1s and 2s              | 15   |         | 25   |         |
 | 6    |                                 | 16   |         | 26   |         |
 | 7    |                                 | 17   |         | 27   |         |
 | 8    |                                 | 18   |         | 28   |         |
