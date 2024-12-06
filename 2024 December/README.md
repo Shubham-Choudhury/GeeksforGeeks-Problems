@@ -8,7 +8,7 @@
 | 4    | Strings Rotations of Each Other | 14   |         | 24   |         |
 | 5    | Sort 0s, 1s and 2s              | 15   |         | 25   |         |
 | 6    | Find H-Index                    | 16   |         | 26   |         |
-| 7    |                                 | 17   |         | 27   |         |
+| 7    | Count Inversions                | 17   |         | 27   |         |
 | 8    |                                 | 18   |         | 28   |         |
 | 9    |                                 | 19   |         | 29   |         |
 | 10   |                                 | 20   |         | 30   |         |
