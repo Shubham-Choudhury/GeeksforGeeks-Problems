@@ -11,4 +11,4 @@
 | 7    | Count Inversions                | 17   |         | 27   |         |
 | 8    | Overlapping Intervals           | 18   |         | 28   |         |
 | 9    | Insert Interval                 | 19   |         | 29   |         |
-| 10   |                                 | 20   |         | 30   |         |
+| 10   | Non-overlapping Intervals       | 20   |         | 30   |         |
