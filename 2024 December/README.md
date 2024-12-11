@@ -3,7 +3,7 @@
 | Date | Problem                         | Date | Problem                   | Date | Problem |
 | ---- | ------------------------------- | ---- | ------------------------- | ---- | ------- |
 | 1    | Non Repeating Character         | 11   | Merge Without Extra Space | 21   |         |
-| 2    | Search Pattern (KMP-Algorithm)  | 12   |                           | 22   |         |
+| 2    | Search Pattern (KMP-Algorithm)  | 12   | Number of occurrence      | 22   |         |
 | 3    | Min Chars to Add for Palindrome | 13   |                           | 23   |         |
 | 4    | Strings Rotations of Each Other | 14   |                           | 24   |         |
 | 5    | Sort 0s, 1s and 2s              | 15   |                           | 25   |         |
