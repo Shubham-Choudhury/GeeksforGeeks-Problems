@@ -6,7 +6,7 @@
 | 2    | Search Pattern (KMP-Algorithm)  | 12   | Number of occurrence           | 22   |         |
 | 3    | Min Chars to Add for Palindrome | 13   | Sorted and Rotated Minimum     | 23   |         |
 | 4    | Strings Rotations of Each Other | 14   | Search in Rotated Sorted Array | 24   |         |
-| 5    | Sort 0s, 1s and 2s              | 15   |                                | 25   |         |
+| 5    | Sort 0s, 1s and 2s              | 15   | Peak element                   | 25   |         |
 | 6    | Find H-Index                    | 16   |                                | 26   |         |
 | 7    | Count Inversions                | 17   |                                | 27   |         |
 | 8    | Overlapping Intervals           | 18   |                                | 28   |         |
