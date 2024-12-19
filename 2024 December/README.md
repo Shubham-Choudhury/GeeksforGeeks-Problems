@@ -11,4 +11,4 @@
 | 7    | Count Inversions                | 17   | Aggressive Cows                               | 27   |         |
 | 8    | Overlapping Intervals           | 18   | Allocate Minimum Pages                        | 28   |         |
 | 9    | Insert Interval                 | 19   | Kth Missing Positive Number in a Sorted Array | 29   |         |
-| 10   | Non-overlapping Intervals       | 20   |                                               | 30   |         |
+| 10   | Non-overlapping Intervals       | 20   | Spirally traversing a matrix                  | 30   |         |
