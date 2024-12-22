@@ -4,7 +4,7 @@
 | ---- | ------------------------------- | ---- | --------------------------------------------- | ---- | ------------------------------------ |
 | 1    | Non Repeating Character         | 11   | Merge Without Extra Space                     | 21   | Rotate by 90 degree                  |
 | 2    | Search Pattern (KMP-Algorithm)  | 12   | Number of occurrence                          | 22   | Search in a Row-Column sorted matrix |
-| 3    | Min Chars to Add for Palindrome | 13   | Sorted and Rotated Minimum                    | 23   |                                      |
+| 3    | Min Chars to Add for Palindrome | 13   | Sorted and Rotated Minimum                    | 23   | Search in a row-wise sorted matrix   |
 | 4    | Strings Rotations of Each Other | 14   | Search in Rotated Sorted Array                | 24   |                                      |
 | 5    | Sort 0s, 1s and 2s              | 15   | Peak element                                  | 25   |                                      |
 | 6    | Find H-Index                    | 16   | K-th element of two Arrays                    | 26   |                                      |
