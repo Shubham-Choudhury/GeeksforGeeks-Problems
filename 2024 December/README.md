@@ -11,5 +11,5 @@
 | 7    | Count Inversions                | 17   | Aggressive Cows                               | 27   | Count pairs with given sum                         |
 | 8    | Overlapping Intervals           | 18   | Allocate Minimum Pages                        | 28   | Find All Triplets with Zero Sum                    |
 | 9    | Insert Interval                 | 19   | Kth Missing Positive Number in a Sorted Array | 29   | Intersection of Two arrays with Duplicate Elements |
-| 10   | Non-overlapping Intervals       | 20   | Spirally traversing a matrix                  | 30   |                                                    |
+| 10   | Non-overlapping Intervals       | 20   | Spirally traversing a matrix                  | 30   | Union of Arrays with Duplicates                    |
 |      |                                 |      |                                               | 31   |                                                    |
