@@ -3,7 +3,7 @@
 | Date | Problem                 | Date | Problem | Date | Problem |
 | ---- | ----------------------- | ---- | ------- | ---- | ------- |
 | 1    | Print Anagrams Together | 11   |         | 21   |         |
-| 2    |                         | 12   |         | 22   |         |
+| 2    | Subarrays with sum K    | 12   |         | 22   |         |
 | 3    |                         | 13   |         | 23   |         |
 | 4    |                         | 14   |         | 24   |         |
 | 5    |                         | 15   |         | 25   |         |
