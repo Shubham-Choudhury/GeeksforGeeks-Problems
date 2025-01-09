@@ -11,5 +11,5 @@
 | 7    | Pair with given sum in a sorted array             | 17   |         | 27   |         |
 | 8    | Count the number of possible triangles            | 18   |         | 28   |         |
 | 9    | Indexes of Subarray Sum                           | 19   |         | 29   |         |
-| 10   |                                                   | 20   |         | 30   |         |
+| 10   | Count distinct elements in every window           | 20   |         | 30   |         |
 |      |                                                   |      |         | 31   |         |
