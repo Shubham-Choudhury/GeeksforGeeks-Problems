@@ -6,7 +6,7 @@
 | 2    | Subarrays with sum K                              | 12   | Trapping Rain Water                        | 22   |         |
 | 3    | Count Subarrays with given XOR                    | 13   | Container With Most Water                  | 23   |         |
 | 4    | Count all triplets with given sum in sorted array | 14   | Equilibrium Point                          | 24   |         |
-| 5    | Count Pairs whose sum is less than target         | 15   |                                            | 25   |         |
+| 5    | Count Pairs whose sum is less than target         | 15   | Longest Subarray with Sum K                | 25   |         |
 | 6    | Sum Pair closest to target                        | 16   |                                            | 26   |         |
 | 7    | Pair with given sum in a sorted array             | 17   |                                            | 27   |         |
 | 8    | Count the number of possible triangles            | 18   |                                            | 28   |         |
