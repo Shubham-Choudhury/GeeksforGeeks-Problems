@@ -8,7 +8,7 @@
 | 4    | Count all triplets with given sum in sorted array | 14   | Equilibrium Point                          | 24   |         |
 | 5    | Count Pairs whose sum is less than target         | 15   | Longest Subarray with Sum K                | 25   |         |
 | 6    | Sum Pair closest to target                        | 16   | Largest subarray of 0's and 1's            | 26   |         |
-| 7    | Pair with given sum in a sorted array             | 17   |                                            | 27   |         |
+| 7    | Pair with given sum in a sorted array             | 17   | Product array puzzle                       | 27   |         |
 | 8    | Count the number of possible triangles            | 18   |                                            | 28   |         |
 | 9    | Indexes of Subarray Sum                           | 19   |                                            | 29   |         |
 | 10   | Count distinct elements in every window           | 20   |                                            | 30   |         |
