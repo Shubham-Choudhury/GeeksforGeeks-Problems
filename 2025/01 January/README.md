@@ -11,5 +11,5 @@
 | 7    | Pair with given sum in a sorted array             | 17   | Product array puzzle                       | 27   |         |
 | 8    | Count the number of possible triangles            | 18   | Reverse a linked list                      | 28   |         |
 | 9    | Indexes of Subarray Sum                           | 19   | Rotate a Linked List                       | 29   |         |
-| 10   | Count distinct elements in every window           | 20   |                                            | 30   |         |
+| 10   | Count distinct elements in every window           | 20   | Merge two sorted linked lists              | 30   |         |
 |      |                                                   |      |                                            | 31   |         |
