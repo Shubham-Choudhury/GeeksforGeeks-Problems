@@ -3,7 +3,7 @@
 | Date | Problem                                           | Date | Problem                                    | Date | Problem                   |
 | ---- | ------------------------------------------------- | ---- | ------------------------------------------ | ---- | ------------------------- |
 | 1    | Print Anagrams Together                           | 11   | Longest substring with distinct characters | 21   | Linked List Group Reverse |
-| 2    | Subarrays with sum K                              | 12   | Trapping Rain Water                        | 22   |                           |
+| 2    | Subarrays with sum K                              | 12   | Trapping Rain Water                        | 22   | Add Number Linked Lists   |
 | 3    | Count Subarrays with given XOR                    | 13   | Container With Most Water                  | 23   |                           |
 | 4    | Count all triplets with given sum in sorted array | 14   | Equilibrium Point                          | 24   |                           |
 | 5    | Count Pairs whose sum is less than target         | 15   | Longest Subarray with Sum K                | 25   |                           |
