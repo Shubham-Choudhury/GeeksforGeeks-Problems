@@ -1,0 +1,153 @@
+// Link: https://www.geeksforgeeks.org/problems/mirror-tree/1
+
+#include <iostream>
+#include <queue>
+#include <sstream>
+using namespace std;
+
+class Node
+{
+public:
+    int data;
+    Node *left;
+    Node *right;
+
+    Node(int x)
+    {
+        data = x;
+        left = right = NULL;
+    }
+};
+
+// Function to Build Tree
+Node *buildTree(string str)
+{
+    // Corner Case
+    if (str.length() == 0 || str[0] == 'N')
+        return NULL;
+
+    // Creating vector of strings from input
+    // string after splitting by space
+    vector<string> ip;
+
+    istringstream iss(str);
+    for (string str; iss >> str;)
+        ip.push_back(str);
+
+    // Create the root of the tree
+    Node *root = new Node(stoi(ip[0]));
+
+    // Push the root to the queue
+    queue<Node *> queue;
+    queue.push(root);
+
+    // Starting from the second element
+    int i = 1;
+    while (!queue.empty() && i < ip.size())
+    {
+
+        // Get and remove the front of the queue
+        Node *currNode = queue.front();
+        queue.pop();
+
+        // Get the current node's value from the string
+        string currVal = ip[i];
+
+        // If the left child is not null
+        if (currVal != "N")
+        {
+
+            // Create the left child for the current node
+            currNode->left = new Node(stoi(currVal));
+
+            // Push it to the queue
+            queue.push(currNode->left);
+        }
+
+        // For the right child
+        i++;
+        if (i >= ip.size())
+            break;
+        currVal = ip[i];
+
+        // If the right child is not null
+        if (currVal != "N")
+        {
+
+            // Create the right child for the current node
+            currNode->right = new Node(stoi(currVal));
+
+            // Push it to the queue
+            queue.push(currNode->right);
+        }
+        i++;
+    }
+
+    return root;
+}
+
+// Generate output as level order of tree
+string levelOrder(Node *root)
+{
+    if (root == nullptr)
+        return "N\n";
+
+    string str;
+    queue<Node *> qq;
+    qq.push(root);
+
+    while (!qq.empty())
+    {
+        Node *curr = qq.front();
+        qq.pop();
+
+        if (curr == nullptr)
+        {
+            str += "N ";
+            continue;
+        }
+        str += (to_string(curr->data) + " ");
+        qq.push(curr->left);
+        qq.push(curr->right);
+    }
+    while (!str.empty() && !isdigit(str.back()))
+    {
+        str.pop_back();
+    }
+    return str;
+}
+
+class Solution
+{
+public:
+    void mirror(Node *node)
+    {
+        if (!node)
+            return;
+        mirror(node->right);
+        mirror(node->left);
+
+        Node *temp = node->right;
+        node->right = node->left;
+        node->left = temp;
+    }
+};
+
+int main()
+{
+    Solution object;
+    string s = "1 2 3 N N 4";
+    Node *root = buildTree(s);
+    cout << levelOrder(root) << endl;
+    object.mirror(root);
+    cout << levelOrder(root) << endl
+         << endl;
+
+    s = "1 2 3 4 5";
+    root = buildTree(s);
+    cout << levelOrder(root) << endl;
+    object.mirror(root);
+    cout << levelOrder(root) << endl
+         << endl;
+    return 0;
+}

@@ -6,7 +6,7 @@
 | 2    | Level order traversal     | 12   |         | 22   |         |
 | 3    | Height of Binary Tree     | 13   |         | 23   |         |
 | 4    | Diameter of a Binary Tree | 14   |         | 24   |         |
-| 5    |                           | 15   |         | 25   |         |
+| 5    | Mirror Tree               | 15   |         | 25   |         |
 | 6    |                           | 16   |         | 26   |         |
 | 7    |                           | 17   |         | 27   |         |
 | 8    |                           | 18   |         | 28   |         |
