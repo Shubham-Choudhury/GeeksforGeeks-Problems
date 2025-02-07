@@ -8,7 +8,7 @@
 | 4    | Diameter of a Binary Tree              | 14   |         | 24   |         |
 | 5    | Mirror Tree                            | 15   |         | 25   |         |
 | 6    | Construct Tree from Inorder & Preorder | 16   |         | 26   |         |
-| 7    |                                        | 17   |         | 27   |         |
+| 7    | Inorder Traversal                      | 17   |         | 27   |         |
 | 8    |                                        | 18   |         | 28   |         |
 | 9    |                                        | 19   |         |      |         |
 | 10   |                                        | 20   |         |      |         |
