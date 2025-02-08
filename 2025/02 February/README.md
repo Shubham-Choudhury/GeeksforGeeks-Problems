@@ -10,5 +10,5 @@
 | 6    | Construct Tree from Inorder & Preorder | 16   |         | 26   |         |
 | 7    | Inorder Traversal                      | 17   |         | 27   |         |
 | 8    | Tree Boundary Traversal                | 18   |         | 28   |         |
-| 9    |                                        | 19   |         |      |         |
+| 9    | Maximum path sum from any node         | 19   |         |      |         |
 | 10   |                                        | 20   |         |      |         |
