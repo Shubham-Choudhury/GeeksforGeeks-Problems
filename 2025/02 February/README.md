@@ -9,6 +9,6 @@
 | 5    | Mirror Tree                            | 15   |         | 25   |         |
 | 6    | Construct Tree from Inorder & Preorder | 16   |         | 26   |         |
 | 7    | Inorder Traversal                      | 17   |         | 27   |         |
-| 8    |                                        | 18   |         | 28   |         |
+| 8    | Tree Boundary Traversal                | 18   |         | 28   |         |
 | 9    |                                        | 19   |         |      |         |
 | 10   |                                        | 20   |         |      |         |
