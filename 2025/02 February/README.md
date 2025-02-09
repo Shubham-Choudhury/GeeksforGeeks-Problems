@@ -11,4 +11,4 @@
 | 7    | Inorder Traversal                      | 17   |         | 27   |         |
 | 8    | Tree Boundary Traversal                | 18   |         | 28   |         |
 | 9    | Maximum path sum from any node         | 19   |         |      |         |
-| 10   |                                        | 20   |         |      |         |
+| 10   | K Sum Paths                            | 20   |         |      |         |
