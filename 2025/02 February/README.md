@@ -4,7 +4,7 @@
 | ---- | -------------------------------------- | ---- | -------------------- | ---- | ------- |
 | 1    | Word Search                            | 11   | Check for BST        | 21   |         |
 | 2    | Level order traversal                  | 12   | k-th Smallest in BST | 22   |         |
-| 3    | Height of Binary Tree                  | 13   |                      | 23   |         |
+| 3    | Height of Binary Tree                  | 13   | Pair Sum in BST      | 23   |         |
 | 4    | Diameter of a Binary Tree              | 14   |                      | 24   |         |
 | 5    | Mirror Tree                            | 15   |                      | 25   |         |
 | 6    | Construct Tree from Inorder & Preorder | 16   |                      | 26   |         |
