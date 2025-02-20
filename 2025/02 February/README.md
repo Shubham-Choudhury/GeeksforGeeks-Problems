@@ -11,4 +11,4 @@
 | 7    | Inorder Traversal                      | 17   | k largest elements                      | 27   |         |
 | 8    | Tree Boundary Traversal                | 18   | K Closest Points to Origin              | 28   |         |
 | 9    | Maximum path sum from any node         | 19   | Merge K sorted linked lists             |      |         |
-| 10   | K Sum Paths                            | 20   |                                         |      |         |
+| 10   | K Sum Paths                            | 20   | Find median in a stream                 |      |         |
