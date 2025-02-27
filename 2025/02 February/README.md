@@ -9,6 +9,6 @@
 | 5    | Mirror Tree                            | 15   | Lowest Common Ancestor in a BST         | 25   | Histogram Max Rectangular Area           |
 | 6    | Construct Tree from Inorder & Preorder | 16   | Serialize and deserialize a binary tree | 26   | Maximum of minimum for every window size |
 | 7    | Inorder Traversal                      | 17   | k largest elements                      | 27   | Get Min from Stack                       |
-| 8    | Tree Boundary Traversal                | 18   | K Closest Points to Origin              | 28   |                                          |
+| 8    | Tree Boundary Traversal                | 18   | K Closest Points to Origin              | 28   | Evaluation of Postfix Expression         |
 | 9    | Maximum path sum from any node         | 19   | Merge K sorted linked lists             |      |                                          |
 | 10   | K Sum Paths                            | 20   | Find median in a stream                 |      |                                          |
