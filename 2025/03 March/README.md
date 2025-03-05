@@ -6,7 +6,7 @@
 | 2    | K Sized Subarray Maximum            | 12   |         | 22   |         |
 | 3    | Longest Bounded-Difference Subarray | 13   |         | 23   |         |
 | 4    | Longest Increasing Subsequence      | 14   |         | 24   |         |
-| 5    |                                     | 15   |         | 25   |         |
+| 5    | Longest String Chain                | 15   |         | 25   |         |
 | 6    |                                     | 16   |         | 26   |         |
 | 7    |                                     | 17   |         | 27   |         |
 | 8    |                                     | 18   |         | 28   |         |
