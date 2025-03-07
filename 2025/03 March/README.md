@@ -8,7 +8,7 @@
 | 4    | Longest Increasing Subsequence      | 14   |         | 24   |         |
 | 5    | Longest String Chain                | 15   |         | 25   |         |
 | 6    | Longest Common Subsequence          | 16   |         | 26   |         |
-| 7    |                                     | 17   |         | 27   |         |
+| 7    | Longest Palindromic Subsequence     | 17   |         | 27   |         |
 | 8    |                                     | 18   |         | 28   |         |
 | 9    |                                     | 19   |         | 29   |         |
 | 10   |                                     | 20   |         | 30   |         |
