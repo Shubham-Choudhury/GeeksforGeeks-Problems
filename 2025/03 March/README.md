@@ -9,7 +9,7 @@
 | 5    | Longest String Chain                | 15   |         | 25   |         |
 | 6    | Longest Common Subsequence          | 16   |         | 26   |         |
 | 7    | Longest Palindromic Subsequence     | 17   |         | 27   |         |
-| 8    |                                     | 18   |         | 28   |         |
+| 8    | Longest Palindrome in a String      | 18   |         | 28   |         |
 | 9    |                                     | 19   |         | 29   |         |
 | 10   |                                     | 20   |         | 30   |         |
 |      |                                     |      |         | 31   |         |
