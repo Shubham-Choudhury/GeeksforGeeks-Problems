@@ -11,5 +11,5 @@
 | 7    | Longest Palindromic Subsequence     | 17   |         | 27   |         |
 | 8    | Longest Palindrome in a String      | 18   |         | 28   |         |
 | 9    | Palindrome SubStrings               | 19   |         | 29   |         |
-| 10   |                                     | 20   |         | 30   |         |
+| 10   | Edit Distance                       | 20   |         | 30   |         |
 |      |                                     |      |         | 31   |         |
