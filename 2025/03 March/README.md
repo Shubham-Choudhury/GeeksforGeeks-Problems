@@ -3,7 +3,7 @@
 | Date | Problem                             | Date | Problem                      | Date | Problem |
 | ---- | ----------------------------------- | ---- | ---------------------------- | ---- | ------- |
 | 1    | Decode the string                   | 11   | Ways to Reach the n'th Stair | 21   |         |
-| 2    | K Sized Subarray Maximum            | 12   |                              | 22   |         |
+| 2    | K Sized Subarray Maximum            | 12   | Min Cost Climbing Stairs     | 22   |         |
 | 3    | Longest Bounded-Difference Subarray | 13   |                              | 23   |         |
 | 4    | Longest Increasing Subsequence      | 14   |                              | 24   |         |
 | 5    | Longest String Chain                | 15   |                              | 25   |         |
