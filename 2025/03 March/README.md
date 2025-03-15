@@ -7,7 +7,7 @@
 | 3    | Longest Bounded-Difference Subarray | 13   | 0 - 1 Knapsack Problem       | 23   |         |
 | 4    | Longest Increasing Subsequence      | 14   | Coin Change (Count Ways)     | 24   |         |
 | 5    | Longest String Chain                | 15   | Coin Change (Minimum Coins)  | 25   |         |
-| 6    | Longest Common Subsequence          | 16   |                              | 26   |         |
+| 6    | Longest Common Subsequence          | 16   | Minimum Jumps                | 26   |         |
 | 7    | Longest Palindromic Subsequence     | 17   |                              | 27   |         |
 | 8    | Longest Palindrome in a String      | 18   |                              | 28   |         |
 | 9    | Palindrome SubStrings               | 19   |                              | 29   |         |
