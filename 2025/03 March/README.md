@@ -9,7 +9,7 @@
 | 5    | Longest String Chain                | 15   | Coin Change (Minimum Coins)  | 25   |         |
 | 6    | Longest Common Subsequence          | 16   | Minimum Jumps                | 26   |         |
 | 7    | Longest Palindromic Subsequence     | 17   | Subset Sum Problem           | 27   |         |
-| 8    | Longest Palindrome in a String      | 18   |                              | 28   |         |
+| 8    | Longest Palindrome in a String      | 18   | Partition Equal Subset Sum   | 28   |         |
 | 9    | Palindrome SubStrings               | 19   |                              | 29   |         |
 | 10   | Edit Distance                       | 20   |                              | 30   |         |
 |      |                                     |      |                              | 31   |         |
