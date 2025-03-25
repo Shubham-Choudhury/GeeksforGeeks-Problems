@@ -7,7 +7,7 @@
 | 3    | Longest Bounded-Difference Subarray | 13   | 0 - 1 Knapsack Problem                          | 23   | Total Decoding Messages     |
 | 4    | Longest Increasing Subsequence      | 14   | Coin Change (Count Ways)                        | 24   | Matrix Chain Multiplication |
 | 5    | Longest String Chain                | 15   | Coin Change (Minimum Coins)                     | 25   | Boolean Parenthesization    |
-| 6    | Longest Common Subsequence          | 16   | Minimum Jumps                                   | 26   |                             |
+| 6    | Longest Common Subsequence          | 16   | Minimum Jumps                                   | 26   | Word Break                  |
 | 7    | Longest Palindromic Subsequence     | 17   | Subset Sum Problem                              | 27   |                             |
 | 8    | Longest Palindrome in a String      | 18   | Partition Equal Subset Sum                      | 28   |                             |
 | 9    | Palindrome SubStrings               | 19   | Stock Buy and Sell – Max K Transactions Allowed | 29   |                             |
