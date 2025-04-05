@@ -7,7 +7,7 @@
 | 3    | Rotten Oranges             | 13   |         | 23   |         |
 | 4    | Undirected Graph Cycle     | 14   |         | 24   |         |
 | 5    | Find the number of islands | 15   |         | 25   |         |
-| 6    |                            | 16   |         | 26   |         |
+| 6    | Topological sort           | 16   |         | 26   |         |
 | 7    |                            | 17   |         | 27   |         |
 | 8    |                            | 18   |         | 28   |         |
 | 9    |                            | 19   |         | 29   |         |
