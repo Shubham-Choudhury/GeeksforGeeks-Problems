@@ -9,6 +9,6 @@
 | 5    | Find the number of islands | 15   |         | 25   |         |
 | 6    | Topological sort           | 16   |         | 26   |         |
 | 7    | Directed Graph Cycle       | 17   |         | 27   |         |
-| 8    |                            | 18   |         | 28   |         |
+| 8    | Bridge edge in a graph     | 18   |         | 28   |         |
 | 9    |                            | 19   |         | 29   |         |
 | 10   |                            | 20   |         | 30   |         |
