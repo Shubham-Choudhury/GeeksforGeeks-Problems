@@ -10,5 +10,5 @@
 | 6    | Topological sort           | 16   |         | 26   |         |
 | 7    | Directed Graph Cycle       | 17   |         | 27   |         |
 | 8    | Bridge edge in a graph     | 18   |         | 28   |         |
-| 9    |                            | 19   |         | 29   |         |
+| 9    | Articulation Point - II    | 19   |         | 29   |         |
 | 10   |                            | 20   |         | 30   |         |
