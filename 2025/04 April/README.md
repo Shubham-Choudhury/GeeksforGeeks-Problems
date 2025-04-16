@@ -8,7 +8,7 @@
 | 4    | Undirected Graph Cycle                       | 14   | Alien Dictionary          | 24   |         |
 | 5    | Find the number of islands                   | 15   | Bellman-Ford              | 25   |         |
 | 6    | Topological sort                             | 16   | Floyd Warshall            | 26   |         |
-| 7    | Directed Graph Cycle                         | 17   |                           | 27   |         |
+| 7    | Directed Graph Cycle                         | 17   | Minimum Weight Cycle      | 27   |         |
 | 8    | Bridge edge in a graph                       | 18   |                           | 28   |         |
 | 9    | Articulation Point - II                      | 19   |                           | 29   |         |
 | 10   | Minimum cost to connect all houses in a city | 20   |                           | 30   |         |
