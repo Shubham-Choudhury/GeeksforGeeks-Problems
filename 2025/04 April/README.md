@@ -3,7 +3,7 @@
 | Date | Problem                                      | Date | Problem                                    | Date | Problem          |
 | ---- | -------------------------------------------- | ---- | ------------------------------------------ | ---- | ---------------- |
 | 1    | DFS of Graph                                 | 11   | Dijkstra Algorithm                         | 21   | Missing in Array |
-| 2    | BFS of graph                                 | 12   | Flood fill Algorithm                       | 22   |                  |
+| 2    | BFS of graph                                 | 12   | Flood fill Algorithm                       | 22   | Unique Number I  |
 | 3    | Rotten Oranges                               | 13   | Clone an Undirected Graph                  | 23   |                  |
 | 4    | Undirected Graph Cycle                       | 14   | Alien Dictionary                           | 24   |                  |
 | 5    | Find the number of islands                   | 15   | Bellman-Ford                               | 25   |                  |
