@@ -11,4 +11,4 @@
 | 7    | Directed Graph Cycle                         | 17   | Minimum Weight Cycle                       | 27   | Multiply two strings                |
 | 8    | Bridge edge in a graph                       | 18   | Implement Trie                             | 28   | Maximum sum of Non-adjacent nodes   |
 | 9    | Articulation Point - II                      | 19   | Maximum XOR of two numbers in an array     | 29   | Sort a linked list of 0s, 1s and 2s |
-| 10   | Minimum cost to connect all houses in a city | 20   | Find Only Repetitive Element from 1 to n-1 | 30   |                                     |
+| 10   | Minimum cost to connect all houses in a city | 20   | Find Only Repetitive Element from 1 to n-1 | 30   | Find length of Loop                 |
