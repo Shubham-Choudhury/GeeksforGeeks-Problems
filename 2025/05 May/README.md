@@ -8,7 +8,7 @@
 | 4    | Smallest distinct window         | 14   |         | 24   |         |
 | 5    | Search in an almost Sorted Array | 15   |         | 25   |         |
 | 6    | Left View of Binary Tree         | 16   |         | 26   |         |
-| 7    |                                  | 17   |         | 27   |         |
+| 7    | Root to Leaf Paths               | 17   |         | 27   |         |
 | 8    |                                  | 18   |         | 28   |         |
 | 9    |                                  | 19   |         | 29   |         |
 | 10   |                                  | 20   |         | 30   |         |
