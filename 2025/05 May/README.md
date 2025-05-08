@@ -10,6 +10,6 @@
 | 6    | Left View of Binary Tree         | 16   |         | 26   |         |
 | 7    | Root to Leaf Paths               | 17   |         | 27   |         |
 | 8    | Missing element of AP            | 18   |         | 28   |         |
-| 9    |                                  | 19   |         | 29   |         |
+| 9    | Largest number in K swaps        | 19   |         | 29   |         |
 | 10   |                                  | 20   |         | 30   |         |
 |      |                                  |      |         | 31   |         |
