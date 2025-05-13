@@ -4,7 +4,7 @@
 | ---- | --------------------------------------------- | ---- | ------------------------------------ | ---- | ------- |
 | 1    | Pascal Triangle                               | 11   | K-th Largest Sum Contiguous Subarray | 21   |         |
 | 2    | Bitonic Point                                 | 12   | Meeting Rooms III                    | 22   |         |
-| 3    | Prime List                                    | 13   |                                      | 23   |         |
+| 3    | Prime List                                    | 13   | nCr                                  | 23   |         |
 | 4    | Smallest distinct window                      | 14   |                                      | 24   |         |
 | 5    | Search in an almost Sorted Array              | 15   |                                      | 25   |         |
 | 6    | Left View of Binary Tree                      | 16   |                                      | 26   |         |
