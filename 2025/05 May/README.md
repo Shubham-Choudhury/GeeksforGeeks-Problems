@@ -4,7 +4,7 @@
 | ---- | --------------------------------------------- | ---- | ------------------------------------------------------ | ---- | ------------------------------------------- |
 | 1    | Pascal Triangle                               | 11   | K-th Largest Sum Contiguous Subarray                   | 21   | Kth Smallest Number in Multiplication Table |
 | 2    | Bitonic Point                                 | 12   | Meeting Rooms III                                      | 22   | Minimum Deletions                           |
-| 3    | Prime List                                    | 13   | nCr                                                    | 23   |                                             |
+| 3    | Prime List                                    | 13   | nCr                                                    | 23   | Dice throw                                  |
 | 4    | Smallest distinct window                      | 14   | Look and Say Pattern                                   | 24   |                                             |
 | 5    | Search in an almost Sorted Array              | 15   | Substrings with same first and last characters         | 25   |                                             |
 | 6    | Left View of Binary Tree                      | 16   | Smallest range in K lists                              | 26   |                                             |
