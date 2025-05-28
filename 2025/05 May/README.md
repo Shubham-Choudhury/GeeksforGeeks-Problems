@@ -10,6 +10,6 @@
 | 6    | Left View of Binary Tree                      | 16   | Smallest range in K lists                              | 26   | Insert in Sorted Circular Linked List           |
 | 7    | Root to Leaf Paths                            | 17   | Sort the given array after applying the given equation | 27   | Print leaf nodes from preorder traversal of BST |
 | 8    | Missing element of AP                         | 18   | Level Order in spiral form                             | 28   | Find rectangle with corners as 1                |
-| 9    | Largest number in K swaps                     | 19   | Predecessor and Successor                              | 29   |                                                 |
+| 9    | Largest number in K swaps                     | 19   | Predecessor and Successor                              | 29   | Sum of nodes on the longest path                |
 | 10   | Longest Subarray with Majority Greater than K | 20   | Burning Tree                                           | 30   |                                                 |
 |      |                                               |      |                                                        | 31   |                                                 |
