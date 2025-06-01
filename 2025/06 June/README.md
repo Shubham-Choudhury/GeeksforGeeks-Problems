@@ -3,7 +3,7 @@
 | Date | Problem                     | Date | Problem | Date | Problem |
 | ---- | --------------------------- | ---- | ------- | ---- | ------- |
 | 1    | Count pairs Sum in matrices | 11   |         | 21   |         |
-| 2    |                             | 12   |         | 22   |         |
+| 2    | Unique Paths in a Grid      | 12   |         | 22   |         |
 | 3    |                             | 13   |         | 23   |         |
 | 4    |                             | 14   |         | 24   |         |
 | 5    |                             | 15   |         | 25   |         |
