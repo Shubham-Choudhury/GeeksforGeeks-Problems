@@ -9,6 +9,6 @@
 | 5    | Count the paths                       | 15   |         | 25   |         |
 | 6    | Search Pattern (Rabin-Karp Algorithm) | 16   |         | 26   |         |
 | 7    | Longest Span in two Binary Arrays     | 17   |         | 27   |         |
-| 8    |                                       | 18   |         | 28   |         |
+| 8    | Sum-string                            | 18   |         | 28   |         |
 | 9    |                                       | 19   |         | 29   |         |
 | 10   |                                       | 20   |         | 30   |         |
