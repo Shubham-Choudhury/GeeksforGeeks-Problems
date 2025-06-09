@@ -10,5 +10,5 @@
 | 6    | Search Pattern (Rabin-Karp Algorithm) | 16   |         | 26   |         |
 | 7    | Longest Span in two Binary Arrays     | 17   |         | 27   |         |
 | 8    | Sum-string                            | 18   |         | 28   |         |
-| 9    |                                       | 19   |         | 29   |         |
+| 9    | BST with Dead End                     | 19   |         | 29   |         |
 | 10   |                                       | 20   |         | 30   |         |
