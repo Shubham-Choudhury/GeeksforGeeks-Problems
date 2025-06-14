@@ -5,7 +5,7 @@
 | 1    | Count pairs Sum in matrices           | 11   | Remove the balls    | 21   |         |
 | 2    | Unique Paths in a Grid                | 12   | K closest elements  | 22   |         |
 | 3    | Substrings with K Distinct            | 13   | Koko Eating Bananas | 23   |         |
-| 4    | LCS of three strings                  | 14   |                     | 24   |         |
+| 4    | LCS of three strings                  | 14   | Symmetric Tree      | 24   |         |
 | 5    | Count the paths                       | 15   |                     | 25   |         |
 | 6    | Search Pattern (Rabin-Karp Algorithm) | 16   |                     | 26   |         |
 | 7    | Longest Span in two Binary Arrays     | 17   |                     | 27   |         |
