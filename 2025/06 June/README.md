@@ -7,7 +7,7 @@
 | 3    | Substrings with K Distinct            | 13   | Koko Eating Bananas | 23   |         |
 | 4    | LCS of three strings                  | 14   | Symmetric Tree      | 24   |         |
 | 5    | Count the paths                       | 15   | Smallest Divisor    | 25   |         |
-| 6    | Search Pattern (Rabin-Karp Algorithm) | 16   |                     | 26   |         |
+| 6    | Search Pattern (Rabin-Karp Algorithm) | 16   | Equalize the Towers | 26   |         |
 | 7    | Longest Span in two Binary Arrays     | 17   |                     | 27   |         |
 | 8    | Sum-string                            | 18   |                     | 28   |         |
 | 9    | BST with Dead End                     | 19   |                     | 29   |         |
