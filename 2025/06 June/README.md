@@ -8,7 +8,7 @@
 | 4    | LCS of three strings                  | 14   | Symmetric Tree      | 24   |         |
 | 5    | Count the paths                       | 15   | Smallest Divisor    | 25   |         |
 | 6    | Search Pattern (Rabin-Karp Algorithm) | 16   | Equalize the Towers | 26   |         |
-| 7    | Longest Span in two Binary Arrays     | 17   |                     | 27   |         |
+| 7    | Longest Span in two Binary Arrays     | 17   | Coin Piles          | 27   |         |
 | 8    | Sum-string                            | 18   |                     | 28   |         |
 | 9    | BST with Dead End                     | 19   |                     | 29   |         |
 | 10   | Exactly one swap                      | 20   |                     | 30   |         |
