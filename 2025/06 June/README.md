@@ -11,4 +11,4 @@
 | 7    | Longest Span in two Binary Arrays     | 17   | Coin Piles                                           | 27   |         |
 | 8    | Sum-string                            | 18   | Find all possible palindromic partitions of a String | 28   |         |
 | 9    | BST with Dead End                     | 19   | Case-specific Sorting of Strings                     | 29   |         |
-| 10   | Exactly one swap                      | 20   |                                                      | 30   |         |
+| 10   | Exactly one swap                      | 20   | Group Balls by Sequence                              | 30   |         |
