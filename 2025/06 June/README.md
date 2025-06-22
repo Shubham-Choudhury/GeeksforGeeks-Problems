@@ -4,7 +4,7 @@
 | ---- | ------------------------------------- | ---- | ---------------------------------------------------- | ---- | ------------------------ |
 | 1    | Count pairs Sum in matrices           | 11   | Remove the balls                                     | 21   | Police and Thieves       |
 | 2    | Unique Paths in a Grid                | 12   | K closest elements                                   | 22   | Largest Divisible Subset |
-| 3    | Substrings with K Distinct            | 13   | Koko Eating Bananas                                  | 23   |                          |
+| 3    | Substrings with K Distinct            | 13   | Koko Eating Bananas                                  | 23   | Minimum sum              |
 | 4    | LCS of three strings                  | 14   | Symmetric Tree                                       | 24   |                          |
 | 5    | Count the paths                       | 15   | Smallest Divisor                                     | 25   |                          |
 | 6    | Search Pattern (Rabin-Karp Algorithm) | 16   | Equalize the Towers                                  | 26   |                          |
