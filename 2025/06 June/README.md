@@ -8,7 +8,7 @@
 | 4    | LCS of three strings                  | 14   | Symmetric Tree                                       | 24   | Lexicographically Largest String After Deleting K Characters |
 | 5    | Count the paths                       | 15   | Smallest Divisor                                     | 25   | Check if frequencies can be equal                            |
 | 6    | Search Pattern (Rabin-Karp Algorithm) | 16   | Equalize the Towers                                  | 26   | Game with String                                             |
-| 7    | Longest Span in two Binary Arrays     | 17   | Coin Piles                                           | 27   |                                                              |
+| 7    | Longest Span in two Binary Arrays     | 17   | Coin Piles                                           | 27   | Mobile numeric keypad                                        |
 | 8    | Sum-string                            | 18   | Find all possible palindromic partitions of a String | 28   |                                                              |
 | 9    | BST with Dead End                     | 19   | Case-specific Sorting of Strings                     | 29   |                                                              |
 | 10   | Exactly one swap                      | 20   | Group Balls by Sequence                              | 30   |                                                              |
