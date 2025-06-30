@@ -11,4 +11,4 @@
 | 7    | Longest Span in two Binary Arrays     | 17   | Coin Piles                                           | 27   | Mobile numeric keypad                                        |
 | 8    | Sum-string                            | 18   | Find all possible palindromic partitions of a String | 28   | Counting elements in two arrays                              |
 | 9    | BST with Dead End                     | 19   | Case-specific Sorting of Strings                     | 29   | Split Array Largest Sum                                      |
-| 10   | Exactly one swap                      | 20   | Group Balls by Sequence                              | 30   |                                                              |
+| 10   | Exactly one swap                      | 20   | Group Balls by Sequence                              | 30   | Max min Height                                               |
