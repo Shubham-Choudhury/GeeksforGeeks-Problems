@@ -4,7 +4,7 @@
 | ---- | -------------------------------------------------- | ---- | ------- | ---- | ------- |
 | 1    | Substrings of length k with k-1 distinct elements  | 11   |         | 21   |         |
 | 2    | Longest subarray with Atmost two distinct integers | 12   |         | 22   |         |
-| 3    |                                                    | 13   |         | 23   |         |
+| 3    | Longest Substring with K Uniques                   | 13   |         | 23   |         |
 | 4    |                                                    | 14   |         | 24   |         |
 | 5    |                                                    | 15   |         | 25   |         |
 | 6    |                                                    | 16   |         | 26   |         |
