@@ -8,7 +8,7 @@
 | 4    | Subarrays With At Most K Distinct Integers         | 14   |         | 24   |         |
 | 5    | Max Score from Subarray Mins                       | 15   |         | 25   |         |
 | 6    | Maximum Sum Combination                            | 16   |         | 26   |         |
-| 7    |                                                    | 17   |         | 27   |         |
+| 7    | Next Greater Element in Circular Array             | 17   |         | 27   |         |
 | 8    |                                                    | 18   |         | 28   |         |
 | 9    |                                                    | 19   |         | 29   |         |
 | 10   |                                                    | 20   |         | 30   |         |
