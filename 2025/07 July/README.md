@@ -9,7 +9,7 @@
 | 5    | Max Score from Subarray Mins                       | 15   |         | 25   |         |
 | 6    | Maximum Sum Combination                            | 16   |         | 26   |         |
 | 7    | Next Greater Element in Circular Array             | 17   |         | 27   |         |
-| 8    |                                                    | 18   |         | 28   |         |
+| 8    | Next element with greater frequency                | 18   |         | 28   |         |
 | 9    |                                                    | 19   |         | 29   |         |
 | 10   |                                                    | 20   |         | 30   |         |
 |      |                                                    |      |         | 31   |         |
