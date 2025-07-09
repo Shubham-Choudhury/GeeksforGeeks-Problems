@@ -11,5 +11,5 @@
 | 7    | Next Greater Element in Circular Array             | 17   |         | 27   |         |
 | 8    | Next element with greater frequency                | 18   |         | 28   |         |
 | 9    | Sum of subarray minimum                            | 19   |         | 29   |         |
-| 10   |                                                    | 20   |         | 30   |         |
+| 10   | Find the longest string                            | 20   |         | 30   |         |
 |      |                                                    |      |         | 31   |         |
