@@ -10,6 +10,6 @@
 | 6    | Maximum Sum Combination                            | 16   | Nine Divisors                            | 26   | Majority Element - More Than n/3     |
 | 7    | Next Greater Element in Circular Array             | 17   | Power of k in factorial of n             | 27   | Set Matrix Zeros                     |
 | 8    | Next element with greater frequency                | 18   | LCM Triplet                              | 28   | Make Matrix Beautiful                |
-| 9    | Sum of subarray minimum                            | 19   | Count Unique Vowel Strings               | 29   |                                      |
+| 9    | Sum of subarray minimum                            | 19   | Count Unique Vowel Strings               | 29   | ASCII Range Sum                      |
 | 10   | Find the longest string                            | 20   | Count Numbers Containing Specific Digits | 30   |                                      |
 |      |                                                    |      |                                          | 31   |                                      |
