@@ -1,4 +1,4 @@
-## August 2024
+## August 2025
 
 | Date | Problem | Date | Problem | Date | Problem |
 | ---- | ------- | ---- | ------- | ---- | ------- |
