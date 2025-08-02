@@ -4,7 +4,7 @@
 | ---- | --------------------------------------------- | ---- | ------- | ---- | ------- |
 | 1    | Balancing Consonants and Vowels Ratio         | 11   |         | 21   |         |
 | 2    | Longest Subarray with Majority Greater than K | 12   |         | 22   |         |
-| 3    |                                               | 13   |         | 23   |         |
+| 3    | 2D Difference Array                           | 13   |         | 23   |         |
 | 4    |                                               | 14   |         | 24   |         |
 | 5    |                                               | 15   |         | 25   |         |
 | 6    |                                               | 16   |         | 26   |         |
