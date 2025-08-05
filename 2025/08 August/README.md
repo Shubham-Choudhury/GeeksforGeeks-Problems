@@ -6,7 +6,7 @@
 | 2    | Longest Subarray with Majority Greater than K | 12   |         | 22   |         |
 | 3    | 2D Difference Array                           | 13   |         | 23   |         |
 | 4    | Maximum sum Rectangle                         | 14   |         | 24   |         |
-| 5    |                                               | 15   |         | 25   |         |
+| 5    | Palindrome Sentence                           | 15   |         | 25   |         |
 | 6    |                                               | 16   |         | 26   |         |
 | 7    |                                               | 17   |         | 27   |         |
 | 8    |                                               | 18   |         | 28   |         |
