@@ -8,7 +8,7 @@
 | 4    | Maximum sum Rectangle                         | 14   |         | 24   |         |
 | 5    | Palindrome Sentence                           | 15   |         | 25   |         |
 | 6    | Roman Number to Integer                       | 16   |         | 26   |         |
-| 7    |                                               | 17   |         | 27   |         |
+| 7    | Difference Check                              | 17   |         | 27   |         |
 | 8    |                                               | 18   |         | 28   |         |
 | 9    |                                               | 19   |         | 29   |         |
 | 10   |                                               | 20   |         | 30   |         |
