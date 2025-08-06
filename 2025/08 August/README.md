@@ -7,7 +7,7 @@
 | 3    | 2D Difference Array                           | 13   |         | 23   |         |
 | 4    | Maximum sum Rectangle                         | 14   |         | 24   |         |
 | 5    | Palindrome Sentence                           | 15   |         | 25   |         |
-| 6    |                                               | 16   |         | 26   |         |
+| 6    | Roman Number to Integer                       | 16   |         | 26   |         |
 | 7    |                                               | 17   |         | 27   |         |
 | 8    |                                               | 18   |         | 28   |         |
 | 9    |                                               | 19   |         | 29   |         |
