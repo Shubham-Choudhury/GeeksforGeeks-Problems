@@ -10,6 +10,6 @@
 | 6    | Roman Number to Integer                       | 16   |         | 26   |         |
 | 7    | Difference Check                              | 17   |         | 27   |         |
 | 8    | Longest Prefix Suffix                         | 18   |         | 28   |         |
-| 9    |                                               | 19   |         | 29   |         |
+| 9    | Longest Periodic Proper Prefix                | 19   |         | 29   |         |
 | 10   |                                               | 20   |         | 30   |         |
 |      |                                               |      |         | 31   |         |
