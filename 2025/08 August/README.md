@@ -11,5 +11,5 @@
 | 7    | Difference Check                              | 17   |         | 27   |         |
 | 8    | Longest Prefix Suffix                         | 18   |         | 28   |         |
 | 9    | Longest Periodic Proper Prefix                | 19   |         | 29   |         |
-| 10   |                                               | 20   |         | 30   |         |
+| 10   | Palindrome SubStrings                         | 20   |         | 30   |         |
 |      |                                               |      |         | 31   |         |
