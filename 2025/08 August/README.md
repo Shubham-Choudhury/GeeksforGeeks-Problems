@@ -3,7 +3,7 @@
 | Date | Problem                                       | Date | Problem                                    | Date | Problem |
 | ---- | --------------------------------------------- | ---- | ------------------------------------------ | ---- | ------- |
 | 1    | Balancing Consonants and Vowels Ratio         | 11   | Maximum Non-Overlapping Odd Palindrome Sum | 21   |         |
-| 2    | Longest Subarray with Majority Greater than K | 12   |                                            | 22   |         |
+| 2    | Longest Subarray with Majority Greater than K | 12   | Shop in Candy Store                        | 22   |         |
 | 3    | 2D Difference Array                           | 13   |                                            | 23   |         |
 | 4    | Maximum sum Rectangle                         | 14   |                                            | 24   |         |
 | 5    | Palindrome Sentence                           | 15   |                                            | 25   |         |
