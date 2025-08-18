@@ -9,7 +9,7 @@
 | 5    | Palindrome Sentence                           | 15   | Insert Interval                            | 25   |         |
 | 6    | Roman Number to Integer                       | 16   | Form the Largest Number                    | 26   |         |
 | 7    | Difference Check                              | 17   | Sort by Absolute Difference                | 27   |         |
-| 8    | Longest Prefix Suffix                         | 18   |                                            | 28   |         |
+| 8    | Longest Prefix Suffix                         | 18   | Find H-Index                               | 28   |         |
 | 9    | Longest Periodic Proper Prefix                | 19   |                                            | 29   |         |
 | 10   | Palindrome SubStrings                         | 20   |                                            | 30   |         |
 |      |                                               |      |                                            | 31   |         |
