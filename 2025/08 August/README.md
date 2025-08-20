@@ -11,5 +11,5 @@
 | 7    | Difference Check                              | 17   | Sort by Absolute Difference                | 27   |         |
 | 8    | Longest Prefix Suffix                         | 18   | Find H-Index                               | 28   |         |
 | 9    | Longest Periodic Proper Prefix                | 19   | Farthest Smaller Right                     | 29   |         |
-| 10   | Palindrome SubStrings                         | 20   |                                            | 30   |         |
+| 10   | Palindrome SubStrings                         | 20   | Search in fully rotated sorted 2D matrix   | 30   |         |
 |      |                                               |      |                                            | 31   |         |
