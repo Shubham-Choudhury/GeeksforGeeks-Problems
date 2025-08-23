@@ -4,7 +4,7 @@
 | ---- | --------------------------------------------- | ---- | ------------------------------------------ | ---- | -------------------------------------------------- |
 | 1    | Balancing Consonants and Vowels Ratio         | 11   | Maximum Non-Overlapping Odd Palindrome Sum | 21   | Maximize the minimum difference between k elements |
 | 2    | Longest Subarray with Majority Greater than K | 12   | Shop in Candy Store                        | 22   | Median in a row-wise sorted Matrix                 |
-| 3    | 2D Difference Array                           | 13   | Tywin's War Strategy                       | 23   |                                                    |
+| 3    | 2D Difference Array                           | 13   | Tywin's War Strategy                       | 23   | Allocate Minimum Pages                             |
 | 4    | Maximum sum Rectangle                         | 14   | Count Reverse Pairs                        | 24   |                                                    |
 | 5    | Palindrome Sentence                           | 15   | Insert Interval                            | 25   |                                                    |
 | 6    | Roman Number to Integer                       | 16   | Form the Largest Number                    | 26   |                                                    |
