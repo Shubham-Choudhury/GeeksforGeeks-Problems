@@ -10,6 +10,6 @@
 | 6    | Roman Number to Integer                       | 16   | Form the Largest Number                    | 26   | Check if a String is Subsequence of Other          |
 | 7    | Difference Check                              | 17   | Sort by Absolute Difference                | 27   | Count the number of possible triangles             |
 | 8    | Longest Prefix Suffix                         | 18   | Find H-Index                               | 28   | Maximize Number of 1's                             |
-| 9    | Longest Periodic Proper Prefix                | 19   | Farthest Smaller Right                     | 29   |                                                    |
+| 9    | Longest Periodic Proper Prefix                | 19   | Farthest Smaller Right                     | 29   | Smallest window containing all characters          |
 | 10   | Palindrome SubStrings                         | 20   | Search in fully rotated sorted 2D matrix   | 30   |                                                    |
 |      |                                               |      |                                            | 31   |                                                    |
