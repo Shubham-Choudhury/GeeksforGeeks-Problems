@@ -7,7 +7,7 @@
 | 3    | 2D Difference Array                           | 13   | Tywin's War Strategy                       | 23   | Allocate Minimum Pages                             |
 | 4    | Maximum sum Rectangle                         | 14   | Count Reverse Pairs                        | 24   | Minimum days to make M bouquets                    |
 | 5    | Palindrome Sentence                           | 15   | Insert Interval                            | 25   | Maximize median after doing k addition operation   |
-| 6    | Roman Number to Integer                       | 16   | Form the Largest Number                    | 26   |                                                    |
+| 6    | Roman Number to Integer                       | 16   | Form the Largest Number                    | 26   | Check if a String is Subsequence of Other          |
 | 7    | Difference Check                              | 17   | Sort by Absolute Difference                | 27   |                                                    |
 | 8    | Longest Prefix Suffix                         | 18   | Find H-Index                               | 28   |                                                    |
 | 9    | Longest Periodic Proper Prefix                | 19   | Farthest Smaller Right                     | 29   |                                                    |
