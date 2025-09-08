@@ -5,7 +5,7 @@
 | 1    | Sum of Mode                  | 11   |         | 21   |         |
 | 2    | Swap Kth nodes from ends     | 12   |         | 22   |         |
 | 3    | Reverse a Doubly Linked List | 13   |         | 23   |         |
-| 4    |                              | 14   |         | 24   |         |
+| 4    | Linked List Group Reverse    | 14   |         | 24   |         |
 | 5    |                              | 15   |         | 25   |         |
 | 6    |                              | 16   |         | 26   |         |
 | 7    |                              | 17   |         | 27   |         |
