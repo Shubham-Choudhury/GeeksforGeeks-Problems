@@ -10,5 +10,5 @@
 | 6    | Find length of Loop                 | 16   | Postfix Evaluation                       | 26   |         |
 | 7    | Merge K sorted linked lists         | 17   | Decode the string                        | 27   |         |
 | 8    | Merge Sort for Linked List          | 18   | Next Greater Element in Circular Array   | 28   |         |
-| 9    | Assign Mice Holes                   | 19   |                                          | 29   |         |
+| 9    | Assign Mice Holes                   | 19   | Min Add to Make Parentheses Valid        | 29   |         |
 | 10   | Largest number in one swap          | 20   |                                          | 30   |         |
